@@ -36,7 +36,7 @@ class RedifusionConfig {
     public $webmaster_email   = 'guivaloz@movimientolibre.com (Guillermo Valdes Lozano)';
     public $elementos_max     = 8;
     public $archivo           = 'rss.xml';
-    public $usar_descripcion  = false; // Si es falso, usará el contenido
+    public $usar_descripcion  = FALSE; // Si es falso, usará el contenido
 
 } // Clase RedifusionConfig
 
