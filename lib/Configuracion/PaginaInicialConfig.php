@@ -70,7 +70,7 @@ class PaginaInicialConfig extends \Base\Plantilla {
         $this->titulo                   = 'Normatividad Torreón';
         $this->autor                    = 'guivaloz';
         $this->descripcion              = 'Sitio web de Normatividad Torreón.';
-        $this->claves                   = 'Decretos, reglamentos, Torreon, Coahuila';
+        $this->claves                   = 'Decretos, Reglamentos, Torreon, Coahuila';
         $this->imagen_previa_ruta       = 'imagenes/imagen-previa.jpg';
         $this->contenido_en_renglon     = FALSE;
         $this->google_site_verification = '';
@@ -101,9 +101,9 @@ class PaginaInicialConfig extends \Base\Plantilla {
         $this->contenido[] = '    <div class="row">';
         $this->contenido[] = '      <div class="col-md-8">';
         $this->contenido[] = '        <a href="index.html">Inicio</a> |';
-        $this->contenido[] = '        <a href="decretos/index.html">Decretos</a> | ';
-        $this->contenido[] = '        <a href="reglamentos/index.html">Reglamentos</a> | ';
-        $this->contenido[] = '        <a href="contacto/contacto.html">Contacto</a>';
+        $this->contenido[] = '        <a href="manuales-de-organizacion/index.html">Manuales de Organización</a> | ';
+        $this->contenido[] = '        <a href="reglamentos-abrogados/index.html">Reglamentos Abrogados</a> | ';
+        $this->contenido[] = '        <a href="reglamentos-vigentes/index.html">Reglamentos Vigentes</a>';
         $this->contenido[] = '      </div>';
         $this->contenido[] = '      <div class="col-md-4">';
         $this->contenido[] = '        <div class="pull-right redes-sociales">';

@@ -45,12 +45,14 @@ class MapaInferiorConfig {
         $a[] = '        <div class="col-md-8">';
         if ($this->en_raiz) {
             $a[] = '            <a href="index.html">Inicio</a> |';
-            $a[] = '            <a href="decretos/index.html">Decretos</a> | ';
-            $a[] = '            <a href="reglamentos/index.html">Reglamentos</a>';
+            $a[] = '            <a href="manuales-de-organizacion/index.html"></a> Manuales de Organización | ';
+            $a[] = '            <a href="reglamentos-abrogados/index.html"></a> Reglamentos Abrogados | ';
+            $a[] = '            <a href="reglamentos-vigentes/index.html"></a> Reglamentos Vigentes ';
         } else {
             $a[] = '            <a href="../index.html">Inicio</a> |';
-            $a[] = '            <a href="../decretos/index.html">Decretos</a> | ';
-            $a[] = '            <a href="../reglamentos/index.html">Reglamentos</a>';
+            $a[] = '            <a href="../manuales-de-organizacion/index.html"></a> Manuales de Organización | ';
+            $a[] = '            <a href="../reglamentos-abrogados/index.html"></a> Reglamentos Abrogados | ';
+            $a[] = '            <a href="../reglamentos-vigentes/index.html"></a> Reglamentos Vigentes ';
         }
         $a[] = '        </div>'; // col-md-8
         $a[] = '        <div class="col-md-4">';

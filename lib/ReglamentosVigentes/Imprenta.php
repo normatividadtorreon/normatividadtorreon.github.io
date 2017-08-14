@@ -39,7 +39,7 @@ class Imprenta extends \Base\ImprentaPublicaciones {
         $this->claves                    = 'Clave1, Clave2, Clave3';
     //~ $this->encabezado_color          = '#FFFFFF';
         // Parámetros que el Recolector definirá en las Publicaciones si éstas no los tienen
-    //~ $this->autor                     = '';
+        $this->autor                     = 'Dirección de Desarrollo Institucional';
     //~ $this->aparece_en_pagina_inicial = TRUE;
     //~ $this->para_compartir            = TRUE;
     //~ $this->imagen                    = '../imagenes/imagen.jpg';

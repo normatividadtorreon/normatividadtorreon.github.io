@@ -34,7 +34,7 @@ class PlantillaConfig {
     public $propio_css     = 'dist/css/normatividad-torreon.css';     // CSS propio de este sitio web
     public $en_raiz        = FALSE;                                   // Si es verdadero los vínculos serán para un archivo en la raíz del sitio
     public $para_compartir = FALSE;                                   // Si es verdadero pondrá los metas para tarjetas en Twitter/Facebook
-    public $autor          = 'guivaloz';                              // Autor por defecto
+    public $autor          = 'Dirección de Desarrollo Institucional'; // Autor por defecto
     public $mensaje_oculto;
     public $pie;
     protected $google_analytics;

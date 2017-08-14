@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Normatividad Torreón</title>
+    <link>http://www.normatividadtorreon.gob.mx</link>
+    <description>Últimas publicaciones de Normatividad Torreón.</description>
+    <language>es-MX</language>
+    <pubDate>Mon, 14 Aug 2017 08:30:59 -0500</pubDate>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>Plataforma de Conocimiento v3.0</generator>
+    <webMaster>guivaloz@movimientolibre.com (Guillermo Valdes Lozano)</webMaster>
+    <atom:link href="http://www.normatividadtorreon.gob.mx/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Manuales de Organización</title>
+      <link>http://www.normatividadtorreon.gob.mx/manuales-de-organizacion/manuales-de-organizacion.html</link>
+      <guid isPermaLink="false">manuales-de-organizacion-manuales-de-organizacion</guid>
+      <pubDate>Wed, 30 Nov 2016 00:00:00 -0600</pubDate>
+      <author>Dirección de Desarrollo Institucional</author>
+      <description><![CDATA[<h3>Listado</h3>
+]]></description>
+    </item>
+    <item>
+      <title>Reglamento de limpieza para el municipio de Torreón, Coahuila</title>
+      <link>http://www.normatividadtorreon.gob.mx/reglamentos-abrogados/reglamento-limpieza.html</link>
+      <guid isPermaLink="false">reglamentos-abrogados-reglamento-limpieza</guid>
+      <pubDate>Wed, 30 Nov 2016 00:00:00 -0600</pubDate>
+      <author>Dirección de Desarrollo Institucional</author>
+      <description><![CDATA[<h3>Reglamento de limpieza para el municipio de Torreón, Coahuila</h3>
+
+<p>El presente Reglamento tiene por objeto regular el servicio de limpieza del Municipio.</p>
+
+<p>Creado: junio de 1991</p>
+]]></description>
+    </item>
+    <item>
+      <title>Reglamento Orgánico de la Administración Pública Municipal de Torreón, Coahuila</title>
+      <link>http://www.normatividadtorreon.gob.mx/reglamentos-vigentes/reglamento-organico-administracion-publica-municipal.html</link>
+      <guid isPermaLink="false">reglamentos-vigentes-reglamento-organico-administracion-publica-municipal</guid>
+      <pubDate>Wed, 30 Nov 2016 00:00:00 -0600</pubDate>
+      <author>Dirección de Desarrollo Institucional</author>
+      <description><![CDATA[<p>Reglamento Orgánico de la Administración Pública Municipal de Torreón, Coahuila.</p>
+
+<p>Tiene por objeto normar la estructura, funcionamiento, atribuciones y responsabilidades de las dependencias, órganos, unidades, organismos y entidades de la administración pública municipal del Municipio de Torreón, Coahuila de Zaragoza.</p>
+
+<p>Creado: — | Última Reforma: Diciembre 2013</p>
+]]></description>
+    </item>
+  </channel>
+</rss>

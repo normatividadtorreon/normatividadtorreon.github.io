@@ -43,12 +43,13 @@ class CreadorConfig {
      */
     public function __construct() {
         $this->imprentas                = array(
-            '\\Decretos\\Imprenta',
-            '\\Reglamentos\\Imprenta');
+            '\\ManualesDeOrganizacion\\Imprenta',
+            '\\ReglamentosAbrogados\\Imprenta',
+            '\\ReglamentosVigentes\\Imprenta');
         $this->imprentas_mapa_sitio     = $this->imprentas;
         $this->imprentas_redifusion     = $this->imprentas;
-        $this->imprentas_autores        = $this->imprentas;
-        $this->imprentas_categorias     = $this->imprentas;
+        $this->imprentas_autores        = array(); // $this->imprentas
+        $this->imprentas_categorias     = array(); // $this->imprentas
         $this->imprentas_pagina_inicial = $this->imprentas;
     } // constructor
 

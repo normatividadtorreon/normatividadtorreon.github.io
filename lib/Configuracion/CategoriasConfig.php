@@ -44,7 +44,9 @@ class CategoriasConfig {
      */
     public function __construct() {
         // Categoría constructor parámetros: nombre, icono, descripcion, estatus
-        $this->categorias[] = new \Base\Categoria('Reglamentos', 'unknown');
+        $this->categorias[] = new \Base\Categoria('Manuales de Organización', 'unknown');
+        $this->categorias[] = new \Base\Categoria('Reglamentos Abrogados', 'unknown');
+        $this->categorias[] = new \Base\Categoria('Reglamentos Vigentes', 'unknown');
     } // constructor
 
     /**

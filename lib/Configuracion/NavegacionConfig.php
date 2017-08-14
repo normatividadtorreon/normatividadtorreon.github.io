@@ -30,11 +30,13 @@ class NavegacionConfig {
     protected $sitio_titulo  = 'Normatividad Torreón';
     protected $logotipo; // 'imagenes/logotipo.png'
     protected $opciones      = array(
-        'Decretos'    => 'decretos/index.html',
-        'Reglamentos' => 'reglamentos/index.html');
+        'Manuales de Organización' => 'manuales-de-organizacion/index.html',
+        'Reglamentos Abrogados'    => 'reglamentos-abrogados/index.html',
+        'Reglamentos Vigentes'     => 'reglamentos-vigentes/index.html');
     static public $iconos    = array(
-        'Decretos'    => 'fa fa-files-o',
-        'Reglamentos' => 'fa fa-server');
+        'Manuales de Organización' => 'fa fa-files-o',
+        'Reglamentos Abrogados'    => 'fa fa-files-o',
+        'Reglamentos Vigentes'     => 'fa fa-files-o');
     protected $buscador_html = <<<FINAL
           <form method="get" id="" action="http://www.normatividadtorreon.gob.mx/buscador-resultados.html">
             <input type="hidden" value="" name="cx">
