@@ -36,7 +36,7 @@ class Imprenta extends \Base\ImprentaPublicaciones {
         // Los siguientes parámetros dan datos para el concentrador y las páginas que no los tienen
         $this->titulo                    = 'Reglamentos Vigentes';
         $this->descripcion               = 'Pendiente describir.';
-        $this->claves                    = 'Clave1, Clave2, Clave3';
+        $this->claves                    = 'Reglamentos, Vigentes';
     //~ $this->encabezado_color          = '#FFFFFF';
         // Parámetros que el Recolector definirá en las Publicaciones si éstas no los tienen
         $this->autor                     = 'Dirección de Desarrollo Institucional';
@@ -47,7 +47,7 @@ class Imprenta extends \Base\ImprentaPublicaciones {
     //~ $this->poner_imagen_en_contenido = TRUE;
         $this->nombre_menu               = 'Reglamantos Vigentes';
         // Ruta a la clase para hacer la página con el índice
-        $this->indices_paginas           = '\\Base\\PaginasDetallados'; // Puede ser \Base\PaginasDetallados, \Base\PaginasGalerias, \Base\PaginasListado o \Base\PaginasTarjetas
+        $this->indices_paginas           = '\\Base\\PaginasListado'; // Puede ser \Base\PaginasDetallados, \Base\PaginasGalerias, \Base\PaginasListado o \Base\PaginasTarjetas
         // Directorio en la raíz que será creado para alojar el concentrador y las páginas
         $this->directorio                = 'reglamentos-vigentes';
         // Nivel es el orden de la rama para los índices por autores y categorías, debe ser un entero grande

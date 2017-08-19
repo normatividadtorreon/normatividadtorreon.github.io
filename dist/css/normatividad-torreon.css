@@ -41,9 +41,11 @@ a:active  { color:#000000; text-decoration:underline; }
 
 /* Cuerpo */
 
-#page-wrapper { background-color:#FFFFFF; }
-.encabezado { background-color:#FFFFFF; border-bottom:2px #C0C0C0 solid; margin-bottom:24px; }
-.publicador { background-color:#FFFFFF; border-top:2px #C0C0C0 solid; margin-top:24px; }
+#page-wrapper           { background-color:#FFFFFF; }
+.encabezado             { background-color:#FFFFFF; border-bottom:2px #C0C0C0 solid; margin-bottom:24px; }
+.encabezado-autor-fecha { color:#808080; }
+.cuerpo                 { font-size:16px; }
+.publicador             { font-size:12px; background-color:#FFFFFF; border-top:2px #C0C0C0 solid; margin-top:24px; }
 
 /* Mapa inferior */
 
