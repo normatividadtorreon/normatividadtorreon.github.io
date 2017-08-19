@@ -1,6 +1,6 @@
 <?php
 /**
- * Normatividad Torreón - Publicacion Config
+ * Sistema de Normatividad Municipal - Publicacion Config
  *
  * Copyright (C) 2017 Guillermo Valdés Lozano <guivaloz@movimientolibre.com>
  *
@@ -48,8 +48,8 @@ class PublicacionConfig {
     public function __construct() {
         // Definir publisher para las publicaciones que hereden SchemaBlogPosting
         $this->publisher                 = new \Base\SchemaOrganization();
-        $this->publisher->name           = 'Normatividad Torreón';
-        $this->publisher->description    = 'Normatividad Torreón.';
+        $this->publisher->name           = 'Sistema de Normatividad Municipal';
+        $this->publisher->description    = 'Dirección General de Desarrollo Institucional del Republicano Ayuntamiento de Torreón.';
         $this->publisher->image          = 'imagenes/torreon.png';
         $this->publisher->is_article     = FALSE;
         $this->publisher->big_heading    = FALSE;

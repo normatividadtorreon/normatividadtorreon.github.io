@@ -1,6 +1,6 @@
 <?php
 /**
- * Normatividad Torreón - ReglamentoOrganicoAdministracionPublicaMunicipal
+ * Normatividad Torreón - ReglamentoProteccionCivil
  *
  * Copyright (C) 2017 Guillermo Valdés Lozano <guivaloz@movimientolibre.com>
  *
@@ -23,9 +23,9 @@
 namespace ReglamentosVigentes;
 
 /**
- * Clase ReglamentoOrganicoAdministracionPublicaMunicipal
+ * Clase ReglamentoProteccionCivil
  */
-class ReglamentoOrganicoAdministracionPublicaMunicipal extends \Base\PublicacionSchemaArticle {
+class ReglamentoProteccionCivil extends \Base\PublicacionSchemaArticle {
 
     /**
      * Constructor
@@ -34,18 +34,18 @@ class ReglamentoOrganicoAdministracionPublicaMunicipal extends \Base\Publicacion
         // Ejecutar constructor en el padre
         parent::__construct();
         // Título, autor y fecha
-        $this->nombre                     = 'Reglamento Orgánico de la Administración Pública Municipal de Torreón, Coahuila';
+        $this->nombre                     = 'Reglamento de protección civil del Municipio de Torreón, Coahuila';
     //~ $this->autor                      = '';
-        $this->fecha                      = '2013-12-31T00:00';
+        $this->fecha                      = '2000-01-31T00:00';
         // El nombre del archivo a crear
-        $this->archivo                    = 'reglamento-organico-administracion-publica-municipal';
+        $this->archivo                    = 'reglamento-proteccion-civil';
         // La descripción y claves dan información a los buscadores y redes sociales
-        $this->descripcion                = 'Tiene por objeto normar la estructura, funcionamiento, atribuciones y responsabilidades de las dependencias, órganos, unidades, organismos y entidades de la administración pública municipal del Municipio de Torreón, Coahuila de Zaragoza.';
-        $this->claves                     = 'Reglamento, Vigente, Organico, Administracion';
+        $this->descripcion                = 'El presente reglamento tiene por objeto regular las acciones de Protección Civil que correspondan al Municipio y que tiendan a la prevención, auxilio, recuperación, apoyo y difusión a la población, en casos de grave riesgo colectivo o de desastres.';
+        $this->claves                     = 'Reglamento, Vigente, Proteccion, Civil';
         // Ruta al archivo markdown con el contenido
-        $this->contenido_archivo_markdown = 'lib/ReglamentosVigentes/ReglamentoOrganicoAdministracionPublicaMunicipal.md';
+        $this->contenido_archivo_markdown = 'lib/ReglamentosVigentes/ReglamentoProteccionCivil.md';
     } // constructor
 
-} // Clase ReglamentoOrganicoAdministracionPublicaMunicipal
+} // Clase ReglamentoProteccionCivil
 
 ?>

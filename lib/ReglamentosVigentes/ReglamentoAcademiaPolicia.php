@@ -1,6 +1,6 @@
 <?php
 /**
- * Normatividad Torreón - ReglamentoOrganicoAdministracionPublicaMunicipal
+ * Normatividad Torreón - ReglamentoAcademiaPolicia
  *
  * Copyright (C) 2017 Guillermo Valdés Lozano <guivaloz@movimientolibre.com>
  *
@@ -23,9 +23,9 @@
 namespace ReglamentosVigentes;
 
 /**
- * Clase ReglamentoOrganicoAdministracionPublicaMunicipal
+ * Clase ReglamentoAcademiaPolicia
  */
-class ReglamentoOrganicoAdministracionPublicaMunicipal extends \Base\PublicacionSchemaArticle {
+class ReglamentoAcademiaPolicia extends \Base\PublicacionSchemaArticle {
 
     /**
      * Constructor
@@ -34,18 +34,18 @@ class ReglamentoOrganicoAdministracionPublicaMunicipal extends \Base\Publicacion
         // Ejecutar constructor en el padre
         parent::__construct();
         // Título, autor y fecha
-        $this->nombre                     = 'Reglamento Orgánico de la Administración Pública Municipal de Torreón, Coahuila';
+        $this->nombre                     = 'Reglamento de la Academia de Policía del Municipio de Torreón, Coahuila';
     //~ $this->autor                      = '';
-        $this->fecha                      = '2013-12-31T00:00';
+        $this->fecha                      = '1999-11-30T00:00';
         // El nombre del archivo a crear
-        $this->archivo                    = 'reglamento-organico-administracion-publica-municipal';
+        $this->archivo                    = 'reglamento-academia-policia';
         // La descripción y claves dan información a los buscadores y redes sociales
-        $this->descripcion                = 'Tiene por objeto normar la estructura, funcionamiento, atribuciones y responsabilidades de las dependencias, órganos, unidades, organismos y entidades de la administración pública municipal del Municipio de Torreón, Coahuila de Zaragoza.';
-        $this->claves                     = 'Reglamento, Vigente, Organico, Administracion';
+        $this->descripcion                = 'El presente reglamento tiene por objeto estructurar y organizar el funcionamiento de la Academia, así como lo relativo a determinar las bases y condiciones a que se sujetarán los programas de formación policiaca, su elaboración, evaluación, ejecución y modificación.';
+        $this->claves                     = 'Reglamento, Vigente, Academia, Policia';
         // Ruta al archivo markdown con el contenido
-        $this->contenido_archivo_markdown = 'lib/ReglamentosVigentes/ReglamentoOrganicoAdministracionPublicaMunicipal.md';
+        $this->contenido_archivo_markdown = 'lib/ReglamentosVigentes/ReglamentoAcademiaPolicia.md';
     } // constructor
 
-} // Clase ReglamentoOrganicoAdministracionPublicaMunicipal
+} // Clase ReglamentoAcademiaPolicia
 
 ?>

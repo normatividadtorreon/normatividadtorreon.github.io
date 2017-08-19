@@ -1,6 +1,6 @@
 <?php
 /**
- * Normatividad Torreón - ReglamentoOrganicoAdministracionPublicaMunicipal
+ * Normatividad Torreón - ReglamentoAdministracionFuncionamientoOperacionMuseoFerrocarril
  *
  * Copyright (C) 2017 Guillermo Valdés Lozano <guivaloz@movimientolibre.com>
  *
@@ -23,9 +23,9 @@
 namespace ReglamentosVigentes;
 
 /**
- * Clase ReglamentoOrganicoAdministracionPublicaMunicipal
+ * Clase ReglamentoAdministracionFuncionamientoOperacionMuseoFerrocarril
  */
-class ReglamentoOrganicoAdministracionPublicaMunicipal extends \Base\PublicacionSchemaArticle {
+class ReglamentoAdministracionFuncionamientoOperacionMuseoFerrocarril extends \Base\PublicacionSchemaArticle {
 
     /**
      * Constructor
@@ -34,18 +34,18 @@ class ReglamentoOrganicoAdministracionPublicaMunicipal extends \Base\Publicacion
         // Ejecutar constructor en el padre
         parent::__construct();
         // Título, autor y fecha
-        $this->nombre                     = 'Reglamento Orgánico de la Administración Pública Municipal de Torreón, Coahuila';
+        $this->nombre                     = 'Reglamento para la administración, funcionamiento y operación del Museo del Ferrocarril';
     //~ $this->autor                      = '';
-        $this->fecha                      = '2013-12-31T00:00';
+        $this->fecha                      = '2013-01-01T00:00';
         // El nombre del archivo a crear
-        $this->archivo                    = 'reglamento-organico-administracion-publica-municipal';
+        $this->archivo                    = 'reglamento-administracion-funcionamiento-operacion-museo-ferrocarril';
         // La descripción y claves dan información a los buscadores y redes sociales
-        $this->descripcion                = 'Tiene por objeto normar la estructura, funcionamiento, atribuciones y responsabilidades de las dependencias, órganos, unidades, organismos y entidades de la administración pública municipal del Municipio de Torreón, Coahuila de Zaragoza.';
-        $this->claves                     = 'Reglamento, Vigente, Organico, Administracion';
+        $this->descripcion                = 'El presente reglamento tiene por objeto atender la operación, conservación, mantenimiento y administración de las obras, instalaciones e infraestructura en general que conforman el Museo del Ferrocarril, ubicado sobre el Boulevard Revolución y calle Valdés Carrillo de la ciudad de Torreón, Coahuila.';
+        $this->claves                     = 'Reglamento, Vigente, Museo, Ferrocarril';
         // Ruta al archivo markdown con el contenido
-        $this->contenido_archivo_markdown = 'lib/ReglamentosVigentes/ReglamentoOrganicoAdministracionPublicaMunicipal.md';
+        $this->contenido_archivo_markdown = 'lib/ReglamentosVigentes/ReglamentoAdministracionFuncionamientoOperacionMuseoFerrocarril.md';
     } // constructor
 
-} // Clase ReglamentoOrganicoAdministracionPublicaMunicipal
+} // Clase ReglamentoAdministracionFuncionamientoOperacionMuseoFerrocarril
 
 ?>

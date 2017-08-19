@@ -1,6 +1,6 @@
 <?php
 /**
- * Normatividad Torreón - Plantilla Config
+ * Sistema de Normatividad Municipal - Plantilla Config
  *
  * Copyright (C) 2017 Guillermo Valdés Lozano <guivaloz@movimientolibre.com>
  *
@@ -27,7 +27,7 @@ namespace Configuracion;
  */
 class PlantillaConfig {
 
-    public $sitio_titulo   = 'Normatividad Torreón';                  // Título del sitio
+    public $sitio_titulo   = 'Sistema de Normatividad Municipal';                  // Título del sitio
     public $sitio_url      = 'http://www.normatividadtorreon.gob.mx'; // Sin diagonal al final
     public $rss            = 'rss.xml';                               // Archivo con la sindicalización (RSS Feed)
     public $favicon        = 'favicon.ico';                           // Archivo ICO
@@ -73,7 +73,7 @@ class PlantillaConfig {
         $this->mensaje_oculto = <<<FINAL
 <!-- ==========================================================================================
 
-     Normatividad Torreón
+     Sistema de Normatividad Municipal
 
         3er. generación de la Plataforma del Conocimiento
         Desarrollado por Ing. Guillermo Valdés Lozano <guivaloz en movimientolibre.com>

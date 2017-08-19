@@ -1,6 +1,6 @@
 <?php
 /**
- * Normatividad Torreón - Redifusion Config
+ * Sistema de Normatividad Municipal - Redifusion Config
  *
  * Copyright (C) 2017 Guillermo Valdés Lozano <guivaloz@movimientolibre.com>
  *
@@ -28,9 +28,9 @@ namespace Configuracion;
 class RedifusionConfig {
 
     public $xml_encoding      = 'UTF-8';
-    public $sitio_titulo      = 'Normatividad Torreón';
+    public $sitio_titulo      = 'Sistema de Normatividad Municipal';
     public $sitio_url         = 'http://www.normatividadtorreon.gob.mx'; // Sin diagonal al final
-    public $sitio_descripcion = 'Últimas publicaciones de Normatividad Torreón.';
+    public $sitio_descripcion = 'Últimas publicaciones del Sistema de Normatividad Municipal.';
     public $lenguaje          = 'es-MX';
     public $generator         = 'Plataforma de Conocimiento v3.0';
     public $webmaster_email   = 'guivaloz@movimientolibre.com (Guillermo Valdes Lozano)';

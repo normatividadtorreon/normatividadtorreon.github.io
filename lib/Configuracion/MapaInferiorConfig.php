@@ -1,6 +1,6 @@
 <?php
 /**
- * Normatividad Torreón - Mapa Inferior Config
+ * Sistema de Normatividad Municipal - Mapa Inferior Config
  *
  * Copyright (C) 2017 Guillermo Valdés Lozano <guivaloz@movimientolibre.com>
  *
@@ -27,7 +27,7 @@ namespace Configuracion;
  */
 class MapaInferiorConfig {
 
-    public $sitio_titulo = 'Normatividad Torreón';
+    public $sitio_titulo = 'Sistema de Normatividad Municipal';
     public $logotipo     = 'imagenes/torreon.png';
     public $en_raiz      = FALSE; // Si es verdadero los vínculos serán para un archivo en la raíz del sitio
 
@@ -45,19 +45,19 @@ class MapaInferiorConfig {
         $a[] = '        <div class="col-md-8">';
         if ($this->en_raiz) {
             $a[] = '            <a href="index.html">Inicio</a> |';
-            $a[] = '            <a href="manuales-de-organizacion/index.html"></a> Manuales de Organización | ';
-            $a[] = '            <a href="reglamentos-abrogados/index.html"></a> Reglamentos Abrogados | ';
-            $a[] = '            <a href="reglamentos-vigentes/index.html"></a> Reglamentos Vigentes ';
+            $a[] = '            <a href="manuales-de-organizacion/index.html"> Manuales de Organización</a> | ';
+            $a[] = '            <a href="reglamentos-abrogados/index.html"> Reglamentos Abrogados</a> | ';
+            $a[] = '            <a href="reglamentos-vigentes/index.html"> Reglamentos Vigentes</a> ';
         } else {
             $a[] = '            <a href="../index.html">Inicio</a> |';
-            $a[] = '            <a href="../manuales-de-organizacion/index.html"></a> Manuales de Organización | ';
-            $a[] = '            <a href="../reglamentos-abrogados/index.html"></a> Reglamentos Abrogados | ';
-            $a[] = '            <a href="../reglamentos-vigentes/index.html"></a> Reglamentos Vigentes ';
+            $a[] = '            <a href="../manuales-de-organizacion/index.html"> Manuales de Organización</a> | ';
+            $a[] = '            <a href="../reglamentos-abrogados/index.html"> Reglamentos Abrogados</a> | ';
+            $a[] = '            <a href="../reglamentos-vigentes/index.html"> Reglamentos Vigentes</a> ';
         }
         $a[] = '        </div>'; // col-md-8
         $a[] = '        <div class="col-md-4">';
         $a[] = '          <div class="pull-right redes-sociales">';
-        $a[] = '            <a class="fa fa-twitter-square" href="#" target="_blank"></a>';
+        $a[] = '            <a class="fa fa-twitter-square" href="https://twitter.com/DGDITRC" target="_blank"></a>';
         $a[] = '            <a class="fa fa-github-square" href="https://github.com/normatividadtorreon" target="_blank"></a>';
         if ($this->en_raiz) {
             $a[] = '            <a class="fa fa-rss-square" href="rss.xml"></a>';

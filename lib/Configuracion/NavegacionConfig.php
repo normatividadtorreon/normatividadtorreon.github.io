@@ -1,6 +1,6 @@
 <?php
 /**
- * Normatividad Torreón - Navegacion Config
+ * Sistema de Normatividad Municipal - Navegacion Config
  *
  * Copyright (C) 2017 Guillermo Valdés Lozano <guivaloz@movimientolibre.com>
  *
@@ -27,7 +27,7 @@ namespace Configuracion;
  */
 class NavegacionConfig {
 
-    protected $sitio_titulo  = 'Normatividad Torreón';
+    protected $sitio_titulo  = 'Sistema de Normatividad Municipal';
     protected $logotipo; // 'imagenes/logotipo.png'
     protected $opciones      = array(
         'Manuales de Organización' => 'manuales-de-organizacion/index.html',

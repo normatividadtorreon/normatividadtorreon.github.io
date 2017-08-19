@@ -1,6 +1,6 @@
 
-Reglamento Orgánico de la Administración Pública Municipal de Torreón, Coahuila.
+Última Reforma: Diciembre 2013
 
-Tiene por objeto normar la estructura, funcionamiento, atribuciones y responsabilidades de las dependencias, órganos, unidades, organismos y entidades de la administración pública municipal del Municipio de Torreón, Coahuila de Zaragoza.
+### Descargar
 
-Creado: — | Última Reforma: Diciembre 2013
+<a href="#"><img src="../imagenes/icono-word.png" alt="Descargar Word"></a> <a href="reglamento-organico-administracion-publica-municipal.pdf"><img src="../imagenes/icono-pdf.png" alt="Descargar PDF"></a>

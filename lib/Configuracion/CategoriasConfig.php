@@ -1,6 +1,6 @@
 <?php
 /**
- * Normatividad Torreón - Categorias Config
+ * Sistema de Normatividad Municipal - Categorias Config
  *
  * Copyright (C) 2017 Guillermo Valdés Lozano <guivaloz@movimientolibre.com>
  *

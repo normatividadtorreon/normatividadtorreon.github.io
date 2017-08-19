@@ -2,7 +2,7 @@
 
 /* Global */
 
-body { background-color:#FFFFFF; color:#404040; font-size:14px; }
+body { background-color:#404040; color:#404040; font-size:14px; }
 
 a,
 a:link,
@@ -38,3 +38,13 @@ a:active  { color:#000000; text-decoration:underline; }
 #side-menu .active a { color:#FFFFFF; }
 
 .sidebar ul li { border-bottom:1px solid #606060; }
+
+/* Cuerpo */
+
+#page-wrapper { background-color:#FFFFFF; }
+.encabezado { background-color:#FFFFFF; border-bottom:2px #C0C0C0 solid; margin-bottom:24px; }
+.publicador { background-color:#FFFFFF; border-top:2px #C0C0C0 solid; margin-top:24px; }
+
+/* Mapa inferior */
+
+.mapa-inferior { background-color:#C0C0C0; }

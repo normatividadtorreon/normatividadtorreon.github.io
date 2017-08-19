@@ -1,6 +1,6 @@
 <?php
 /**
- * Normatividad Torreón - Pagina Inicial Config
+ * Sistema de Normatividad Municipal - Pagina Inicial Config
  *
  * Copyright (C) 2017 Guillermo Valdés Lozano <guivaloz@movimientolibre.com>
  *
@@ -67,9 +67,9 @@ class PaginaInicialConfig extends \Base\Plantilla {
         $this->en_raiz                  = true;
         $this->directorio               = '.';
         $this->archivo_ruta             = "index.html";
-        $this->titulo                   = 'Normatividad Torreón';
+        $this->titulo                   = 'Sistema de Normatividad Municipal';
         $this->autor                    = 'guivaloz';
-        $this->descripcion              = 'Sitio web de Normatividad Torreón.';
+        $this->descripcion              = 'Sitio web de Sistema de Normatividad Municipal.';
         $this->claves                   = 'Decretos, Reglamentos, Torreon, Coahuila';
         $this->imagen_previa_ruta       = 'imagenes/imagen-previa.jpg';
         $this->contenido_en_renglon     = FALSE;
@@ -82,8 +82,11 @@ class PaginaInicialConfig extends \Base\Plantilla {
     protected function organizacion() {
         // Encabezado
         $organizacion              = new \Base\SchemaOrganization();
-        $organizacion->name        = 'Normatividad Torreón';
-        $organizacion->description = 'Sitio web de Normatividad Torreón.';
+        $organizacion->name        = 'Sistema de Normatividad Municipal';
+        $organizacion->description = <<<FINAL
+Bienvenido al Sistema de Normatividad Municipal del R. Ayuntamiento de Torreón, Coah. Por medio de esta herramienta puedes consultar  el conjunto de disposiciones normativas que regulan al Municipio, Ayuntamiento y a la Administración Pública Municipal como son los reglamentos, decretos, documentos institucionales  de las dependencias, organismos y entidades que conforman la administración pública municipal.
+De esta manera el Sistema de Normatividad Municipal permite conocer no sólo las normas que le serán aplicables, sino también la organización interna de la totalidad del Ayuntamiento.
+FINAL;
         $organizacion->image       = 'imagenes/torreon.png';
         $organizacion->is_article  = FALSE;
         $organizacion->big_heading = TRUE;

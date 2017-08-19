@@ -1,6 +1,6 @@
 <?php
 /**
- * Normatividad Torreón - ReglamentoOrganicoAdministracionPublicaMunicipal
+ * Normatividad Torreón - CLASE
  *
  * Copyright (C) 2017 Guillermo Valdés Lozano <guivaloz@movimientolibre.com>
  *
@@ -23,29 +23,29 @@
 namespace ReglamentosVigentes;
 
 /**
- * Clase ReglamentoOrganicoAdministracionPublicaMunicipal
+ * Clase CLASE
  */
-class ReglamentoOrganicoAdministracionPublicaMunicipal extends \Base\PublicacionSchemaArticle {
+class CLASE extends \Base\PublicacionSchemaArticle {ob}
 
     /**
      * Constructor
      */
-    public function __construct() {
+    public function __construct() {ob}
         // Ejecutar constructor en el padre
         parent::__construct();
         // Título, autor y fecha
-        $this->nombre                     = 'Reglamento Orgánico de la Administración Pública Municipal de Torreón, Coahuila';
+        $this->nombre                     = 'Título';
     //~ $this->autor                      = '';
-        $this->fecha                      = '2013-12-31T00:00';
+        $this->fecha                      = '2013-01-01T00:00';
         // El nombre del archivo a crear
-        $this->archivo                    = 'reglamento-organico-administracion-publica-municipal';
+        $this->archivo                    = 'archivo';
         // La descripción y claves dan información a los buscadores y redes sociales
-        $this->descripcion                = 'Tiene por objeto normar la estructura, funcionamiento, atribuciones y responsabilidades de las dependencias, órganos, unidades, organismos y entidades de la administración pública municipal del Municipio de Torreón, Coahuila de Zaragoza.';
-        $this->claves                     = 'Reglamento, Vigente, Organico, Administracion';
+        $this->descripcion                = 'Descripción.';
+        $this->claves                     = 'Reglamento, Vigente, ';
         // Ruta al archivo markdown con el contenido
-        $this->contenido_archivo_markdown = 'lib/ReglamentosVigentes/ReglamentoOrganicoAdministracionPublicaMunicipal.md';
-    } // constructor
+        $this->contenido_archivo_markdown = 'lib/ReglamentosVigentes/CLASE.md';
+    {cb} // constructor
 
-} // Clase ReglamentoOrganicoAdministracionPublicaMunicipal
+{cb} // Clase CLASE
 
 ?>

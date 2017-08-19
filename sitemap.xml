@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>http://www.normatividadtorreon.gob.mx/index.html</loc>
-    <lastmod>2017-08-14</lastmod>
+    <lastmod>2017-08-19</lastmod>
     <changefreq>daily</changefreq>
   </url>
   <url>
@@ -16,8 +16,43 @@
     <changefreq>monthly</changefreq>
   </url>
   <url>
+    <loc>http://www.normatividadtorreon.gob.mx/reglamentos-vigentes/reglamento-academia-policia.html</loc>
+    <lastmod>1999-11-30</lastmod>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>http://www.normatividadtorreon.gob.mx/reglamentos-vigentes/reglamento-administracion-funcionamiento-operacion-museo-ferrocarril.html</loc>
+    <lastmod>2013-01-01</lastmod>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>http://www.normatividadtorreon.gob.mx/reglamentos-vigentes/reglamento-consejo-directivo-seleccion-capacitacion-evaluacion-policial.html</loc>
+    <lastmod>1996-10-31</lastmod>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>http://www.normatividadtorreon.gob.mx/reglamentos-vigentes/reglamento-designar-ciudadanos-distinguidos.html</loc>
+    <lastmod>1999-05-31</lastmod>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
     <loc>http://www.normatividadtorreon.gob.mx/reglamentos-vigentes/reglamento-organico-administracion-publica-municipal.html</loc>
-    <lastmod>2016-11-30</lastmod>
+    <lastmod>2013-12-31</lastmod>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>http://www.normatividadtorreon.gob.mx/reglamentos-vigentes/reglamento-participacion-ciudadana.html</loc>
+    <lastmod>2002-10-31</lastmod>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>http://www.normatividadtorreon.gob.mx/reglamentos-vigentes/reglamento-proteccion-civil.html</loc>
+    <lastmod>2000-01-31</lastmod>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>http://www.normatividadtorreon.gob.mx/reglamentos-vigentes/reglamento-servicio-profesional-carrera.html</loc>
+    <lastmod>2002-01-31</lastmod>
     <changefreq>monthly</changefreq>
   </url>
 </urlset>

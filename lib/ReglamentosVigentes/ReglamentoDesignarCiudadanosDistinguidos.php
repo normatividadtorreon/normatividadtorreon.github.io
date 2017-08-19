@@ -1,6 +1,6 @@
 <?php
 /**
- * Normatividad Torreón - ReglamentoOrganicoAdministracionPublicaMunicipal
+ * Normatividad Torreón - ReglamentoDesignarCiudadanosDistinguidos
  *
  * Copyright (C) 2017 Guillermo Valdés Lozano <guivaloz@movimientolibre.com>
  *
@@ -23,9 +23,9 @@
 namespace ReglamentosVigentes;
 
 /**
- * Clase ReglamentoOrganicoAdministracionPublicaMunicipal
+ * Clase ReglamentoDesignarCiudadanosDistinguidos
  */
-class ReglamentoOrganicoAdministracionPublicaMunicipal extends \Base\PublicacionSchemaArticle {
+class ReglamentoDesignarCiudadanosDistinguidos extends \Base\PublicacionSchemaArticle {
 
     /**
      * Constructor
@@ -34,18 +34,18 @@ class ReglamentoOrganicoAdministracionPublicaMunicipal extends \Base\Publicacion
         // Ejecutar constructor en el padre
         parent::__construct();
         // Título, autor y fecha
-        $this->nombre                     = 'Reglamento Orgánico de la Administración Pública Municipal de Torreón, Coahuila';
+        $this->nombre                     = 'Reglamento para designar a ciudadanos distinguidos en el Municipio de Torreón, Coahuila';
     //~ $this->autor                      = '';
-        $this->fecha                      = '2013-12-31T00:00';
+        $this->fecha                      = '1999-05-31T00:00';
         // El nombre del archivo a crear
-        $this->archivo                    = 'reglamento-organico-administracion-publica-municipal';
+        $this->archivo                    = 'reglamento-designar-ciudadanos-distinguidos';
         // La descripción y claves dan información a los buscadores y redes sociales
-        $this->descripcion                = 'Tiene por objeto normar la estructura, funcionamiento, atribuciones y responsabilidades de las dependencias, órganos, unidades, organismos y entidades de la administración pública municipal del Municipio de Torreón, Coahuila de Zaragoza.';
-        $this->claves                     = 'Reglamento, Vigente, Organico, Administracion';
+        $this->descripcion                = 'El presente reglamento contiene las disposiciones que regulan el conocimiento que anualmente otorga el Ayuntamiento de Torreón, Coahuila a aquellos ciudadanos que han sobresalido en actividades de tipo social, cultural, científico, artístico, literario y deportivo.';
+        $this->claves                     = 'Reglamento, Vigente, Ciudadanos, Distinguidos';
         // Ruta al archivo markdown con el contenido
-        $this->contenido_archivo_markdown = 'lib/ReglamentosVigentes/ReglamentoOrganicoAdministracionPublicaMunicipal.md';
+        $this->contenido_archivo_markdown = 'lib/ReglamentosVigentes/ReglamentoDesignarCiudadanosDistinguidos.md';
     } // constructor
 
-} // Clase ReglamentoOrganicoAdministracionPublicaMunicipal
+} // Clase ReglamentoDesignarCiudadanosDistinguidos
 
 ?>
