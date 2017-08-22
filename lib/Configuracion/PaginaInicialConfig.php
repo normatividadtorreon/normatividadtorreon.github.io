@@ -83,10 +83,7 @@ class PaginaInicialConfig extends \Base\Plantilla {
         // Encabezado
         $organizacion              = new \Base\SchemaOrganization();
         $organizacion->name        = 'Sistema de Normatividad Municipal';
-        $organizacion->description = <<<FINAL
-Bienvenido al Sistema de Normatividad Municipal del R. Ayuntamiento de Torreón, Coah. Por medio de esta herramienta puedes consultar  el conjunto de disposiciones normativas que regulan al Municipio, Ayuntamiento y a la Administración Pública Municipal como son los reglamentos, decretos, documentos institucionales  de las dependencias, organismos y entidades que conforman la administración pública municipal.
-De esta manera el Sistema de Normatividad Municipal permite conocer no sólo las normas que le serán aplicables, sino también la organización interna de la totalidad del Ayuntamiento.
-FINAL;
+        $organizacion->description = '.';
         $organizacion->image       = 'imagenes/torreon.png';
         $organizacion->is_article  = FALSE;
         $organizacion->big_heading = TRUE;
@@ -95,6 +92,20 @@ FINAL;
         $this->contenido[] = $organizacion->html();
         $this->contenido[] = '  </section>';
     } // organizacion
+
+    /**
+     * Presentacion
+     */
+    protected function presentacion() {
+        $this->contenido[] = '  <section id="presentacion">';
+        $this->contenido[] = '    <div class="row">';
+        $this->contenido[] = '      <div class="col-md-12">';
+        $this->contenido[] = '        <p>Bienvenido al Sistema de Normatividad Municipal del R. Ayuntamiento de Torreón, Coah. Por medio de esta herramienta puedes consultar  el conjunto de disposiciones normativas que regulan al Municipio, Ayuntamiento y a la Administración Pública Municipal como son los reglamentos, decretos, documentos institucionales  de las dependencias, organismos y entidades que conforman la administración pública municipal.</p>';
+        $this->contenido[] = '        <p>De esta manera el Sistema de Normatividad Municipal permite conocer no sólo las normas que le serán aplicables, sino también la organización interna de la totalidad del Ayuntamiento.</p>';
+        $this->contenido[] = '      </div>';
+        $this->contenido[] = '    </div>';
+        $this->contenido[] = '  </section>';
+    } // presentacion
 
     /**
      * Redes
@@ -127,6 +138,7 @@ FINAL;
     public function html() {
         // Elaborar secciones
         $this->organizacion();
+        $this->presentacion();
         $this->redes();
         // Entregar resultado del método en el padre
         return parent::html();

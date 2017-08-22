@@ -47,7 +47,7 @@ class Imprenta extends \Base\ImprentaPublicaciones {
     //~ $this->poner_imagen_en_contenido = TRUE;
         $this->nombre_menu               = 'Manuales de Organización';
         // Ruta a la clase para hacer la página con el índice
-        $this->indices_paginas           = '\\Base\\PaginasListado'; // Puede ser \Base\PaginasDetallados, \Base\PaginasGalerias, \Base\PaginasListado o \Base\PaginasTarjetas
+        $this->indices_paginas           = '\\Base\\PaginasTarjetas'; // Puede ser \Base\PaginasDetallados, \Base\PaginasGalerias, \Base\PaginasListado o \Base\PaginasTarjetas
         // Directorio en la raíz que será creado para alojar el concentrador y las páginas
         $this->directorio                = 'manuales-de-organizacion';
         // Nivel es el orden de la rama para los índices por autores y categorías, debe ser un entero grande

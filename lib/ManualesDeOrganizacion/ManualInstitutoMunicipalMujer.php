@@ -1,6 +1,6 @@
 <?php
 /**
- * Normatividad Torreón - ManualesDeOrganizacion
+ * Normatividad Torreón - ManualInstitutoMunicipalMujer
  *
  * Copyright (C) 2017 Guillermo Valdés Lozano <guivaloz@movimientolibre.com>
  *
@@ -17,15 +17,15 @@
  * You should have received a copy of the GNU General Public License
  * along with this program.  If not, see <http://www.gnu.org/licenses/>.
  *
- * @package TrcIMPLANSitioWeb
+ * @package NormatividadTorreon
  */
 
 namespace ManualesDeOrganizacion;
 
 /**
- * Clase ManualesDeOrganizacion
+ * Clase ManualInstitutoMunicipalMujer
  */
-class ManualesDeOrganizacion extends \Base\PublicacionSchemaArticle {
+class ManualInstitutoMunicipalMujer extends \Base\Publicacion {
 
     /**
      * Constructor
@@ -34,18 +34,21 @@ class ManualesDeOrganizacion extends \Base\PublicacionSchemaArticle {
         // Ejecutar constructor en el padre
         parent::__construct();
         // Título, autor y fecha
-        $this->nombre                     = 'Manuales de Organización';
-    //~ $this->autor                      = '';
-        $this->fecha                      = '2017-00-00T00:00';
+        $this->nombre        = 'Instituto Municipal de la Mujer';
+        $this->fecha         = '2013-01-01T00:00';
         // El nombre del archivo a crear
-        $this->archivo                    = 'manuales-de-organizacion';
+        $this->archivo       = ''; // No hay archivo HTML a crear, porque es un vínculo de descarga
         // La descripción y claves dan información a los buscadores y redes sociales
-        $this->descripcion                = 'Descripción.';
-        $this->claves                     = '';
-        // Ruta al archivo markdown con el contenido
-        $this->contenido_archivo_markdown = 'lib/ManualesDeOrganizacion/ManualesDeOrganizacion.md';
+        $this->descripcion   = '.';
+        $this->claves        = 'Manual, Organizacion, Mujer';
+        // Imágenes
+        $this->imagen        = 'manual-instituto-municipal-mujer.jpg';
+        $this->imagen_previa = 'manual-instituto-municipal-mujer.jpg';
+        // URL de destino
+        $this->url           = 'manual-instituto-municipal-mujer.pdf';
+        $this->url_etiqueta  = 'Descargar PDF';
     } // constructor
 
-} // Clase ManualesDeOrganizacion
+} // Clase ManualInstitutoMunicipalMujer
 
 ?>
