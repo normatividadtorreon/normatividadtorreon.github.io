@@ -5,24 +5,11 @@
     <link>http://www.normatividadtorreon.gob.mx</link>
     <description>Últimas publicaciones del Sistema de Normatividad Municipal.</description>
     <language>es-MX</language>
-    <pubDate>Mon, 21 Aug 2017 22:17:13 -0500</pubDate>
+    <pubDate>Tue, 22 Aug 2017 20:38:21 -0500</pubDate>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Plataforma de Conocimiento v3.0</generator>
     <webMaster>guivaloz@movimientolibre.com (Guillermo Valdes Lozano)</webMaster>
     <atom:link href="http://www.normatividadtorreon.gob.mx/rss.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Reglamento de limpieza para el municipio de Torreón, Coahuila</title>
-      <link>http://www.normatividadtorreon.gob.mx/reglamentos-abrogados/reglamento-limpieza.html</link>
-      <guid isPermaLink="false">reglamentos-abrogados-reglamento-limpieza</guid>
-      <pubDate>Wed, 30 Nov 2016 00:00:00 -0600</pubDate>
-      <author>Dirección de Desarrollo Institucional</author>
-      <description><![CDATA[<h3>Reglamento de limpieza para el municipio de Torreón, Coahuila</h3>
-
-<p>El presente Reglamento tiene por objeto regular el servicio de limpieza del Municipio.</p>
-
-<p>Creado: junio de 1991</p>
-]]></description>
-    </item>
     <item>
       <title>Reglamento de parques, jardines y paseos públicos del municipio de Torreón, Coahuila</title>
       <link>http://www.normatividadtorreon.gob.mx/reglamentos-vigentes/reglamento-parques-jardines-paseos-publicos.html</link>
@@ -101,6 +88,19 @@
 <h3>Descargar</h3>
 
 <p><a href="http://www.normatividadtorreon.gob.mx/reglamentos-vigentes/#"><img src="http://www.normatividadtorreon.gob.mx/reglamentos-vigentes/../imagenes/icono-word.png" alt="Descargar Word"></a> <a href="http://www.normatividadtorreon.gob.mx/reglamentos-vigentes/reglamento-formacion-comites-ciudadanos.pdf"><img src="http://www.normatividadtorreon.gob.mx/reglamentos-vigentes/../imagenes/icono-pdf.png" alt="Descargar PDF"></a></p>
+]]></description>
+    </item>
+    <item>
+      <title>Reglamento de panteones y crematorios de la ciudad de Torreón, Coahuila</title>
+      <link>http://www.normatividadtorreon.gob.mx/reglamentos-abrogados/reglamento-panteones-crematorios.html</link>
+      <guid isPermaLink="false">reglamentos-abrogados-reglamento-panteones-crematorios</guid>
+      <pubDate>Tue, 24 Dec 2002 00:00:00 -0600</pubDate>
+      <author>Dirección de Desarrollo Institucional</author>
+      <description><![CDATA[<p>Creado: 24 de Diciembre de 2002</p>
+
+<h3>Descargar</h3>
+
+<p><a href="http://www.normatividadtorreon.gob.mx/reglamentos-abrogados/#"><img src="http://www.normatividadtorreon.gob.mx/reglamentos-abrogados/../imagenes/icono-word.png" alt="Descargar Word"></a> <a href="http://www.normatividadtorreon.gob.mx/reglamentos-abrogados/reglamento-panteones-crematorios.pdf"><img src="http://www.normatividadtorreon.gob.mx/reglamentos-abrogados/../imagenes/icono-pdf.png" alt="Descargar PDF"></a></p>
 ]]></description>
     </item>
   </channel>

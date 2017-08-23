@@ -35,7 +35,7 @@ class Imprenta extends \Base\ImprentaPublicaciones {
         $this->publicaciones_directorio  = 'ReglamentosVigentes';
         // Los siguientes parámetros dan datos para el concentrador y las páginas que no los tienen
         $this->titulo                    = 'Reglamentos Vigentes';
-        $this->descripcion               = 'Pendiente describir.';
+        $this->descripcion               = '.';
         $this->claves                    = 'Reglamentos, Vigentes';
     //~ $this->encabezado_color          = '#FFFFFF';
         // Parámetros que el Recolector definirá en las Publicaciones si éstas no los tienen

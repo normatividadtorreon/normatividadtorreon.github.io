@@ -35,7 +35,7 @@ class Imprenta extends \Base\ImprentaPublicaciones {
         $this->publicaciones_directorio  = 'ManualesDeOrganizacion';
         // Los siguientes parámetros dan datos para el concentrador y las páginas que no los tienen
         $this->titulo                    = 'Manuales de Organización';
-        $this->descripcion               = 'Descripción.';
+        $this->descripcion               = '.';
         $this->claves                    = 'Clave1, Clave2, Clave3';
     //~ $this->encabezado_color          = '#FFFFFF';
         // Parámetros que el Recolector definirá en las Publicaciones si éstas no los tienen

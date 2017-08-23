@@ -31,12 +31,12 @@ class NavegacionConfig {
     protected $logotipo; // 'imagenes/logotipo.png'
     protected $opciones      = array(
         'Manuales de Organización' => 'manuales-de-organizacion/index.html',
-        'Reglamentos Abrogados'    => 'reglamentos-abrogados/index.html',
-        'Reglamentos Vigentes'     => 'reglamentos-vigentes/index.html');
+        'Reglamentos Vigentes'     => 'reglamentos-vigentes/index.html',
+        'Reglamentos Abrogados'    => 'reglamentos-abrogados/index.html');
     static public $iconos    = array(
         'Manuales de Organización' => 'fa fa-files-o',
-        'Reglamentos Abrogados'    => 'fa fa-files-o',
-        'Reglamentos Vigentes'     => 'fa fa-files-o');
+        'Reglamentos Vigentes'     => 'fa fa-files-o',
+        'Reglamentos Abrogados'    => 'fa fa-files-o');
     protected $buscador_html = <<<FINAL
           <form method="get" id="" action="http://www.normatividadtorreon.gob.mx/buscador-resultados.html">
             <input type="hidden" value="" name="cx">

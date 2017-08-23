@@ -36,12 +36,12 @@ class ReglamentoLimpieza extends \Base\PublicacionSchemaArticle {
         // Título, autor y fecha
         $this->nombre                     = 'Reglamento de limpieza para el municipio de Torreón, Coahuila';
     //~ $this->autor                      = '';
-        $this->fecha                      = '2017-00-00T00:00';
+        $this->fecha                      = '1991-06-01T00:00';
         // El nombre del archivo a crear
         $this->archivo                    = 'reglamento-limpieza';
         // La descripción y claves dan información a los buscadores y redes sociales
-        $this->descripcion                = 'Descripción.';
-        $this->claves                     = 'Torreon, ';
+        $this->descripcion                = 'El presente Reglamento tiene por objeto regular el servicio de limpieza del Municipio.';
+        $this->claves                     = 'Reglamento, Abrogado, Limpieza';
         // Ruta al archivo markdown con el contenido
         $this->contenido_archivo_markdown = 'lib/ReglamentosAbrogados/ReglamentoLimpieza.md';
     } // constructor

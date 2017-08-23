@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>http://www.normatividadtorreon.gob.mx/index.html</loc>
-    <lastmod>2017-08-21</lastmod>
+    <lastmod>2017-08-22</lastmod>
     <changefreq>daily</changefreq>
   </url>
   <url>
@@ -46,8 +46,23 @@
     <changefreq>monthly</changefreq>
   </url>
   <url>
+    <loc>http://www.normatividadtorreon.gob.mx/reglamentos-abrogados/reglamento-anuncios.html</loc>
+    <lastmod>2000-01-01</lastmod>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>http://www.normatividadtorreon.gob.mx/reglamentos-abrogados/reglamento-asentamientos-humanos-desarrollo-humano-construcciones.html</loc>
+    <lastmod>2000-01-01</lastmod>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
     <loc>http://www.normatividadtorreon.gob.mx/reglamentos-abrogados/reglamento-limpieza.html</loc>
-    <lastmod>2016-11-30</lastmod>
+    <lastmod>1991-06-01</lastmod>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>http://www.normatividadtorreon.gob.mx/reglamentos-abrogados/reglamento-panteones-crematorios.html</loc>
+    <lastmod>2002-12-24</lastmod>
     <changefreq>monthly</changefreq>
   </url>
   <url>
