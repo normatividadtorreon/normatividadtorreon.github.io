@@ -1,6 +1,6 @@
 <?php
 /**
- * TrcIMPLAN Sitio Web - ReglamentoLimpieza
+ * Normatividad Torreón - ReglamentoPropietariosPoseedoresAnimalesCaninosFelinos
  *
  * Copyright (C) 2017 Guillermo Valdés Lozano <guivaloz@movimientolibre.com>
  *
@@ -17,15 +17,15 @@
  * You should have received a copy of the GNU General Public License
  * along with this program.  If not, see <http://www.gnu.org/licenses/>.
  *
- * @package TrcIMPLANSitioWeb
+ * @package NormatividadTorreon
  */
 
 namespace ReglamentosAbrogados;
 
 /**
- * Clase ReglamentoLimpieza
+ * Clase ReglamentoPropietariosPoseedoresAnimalesCaninosFelinos
  */
-class ReglamentoLimpieza extends \Base\PublicacionSchemaArticle {
+class ReglamentoPropietariosPoseedoresAnimalesCaninosFelinos extends \Base\PublicacionSchemaArticle {
 
     /**
      * Constructor
@@ -34,18 +34,18 @@ class ReglamentoLimpieza extends \Base\PublicacionSchemaArticle {
         // Ejecutar constructor en el padre
         parent::__construct();
         // Título, autor y fecha
-        $this->nombre                     = 'Reglamento de limpieza para el municipio de Torreón, Coahuila';
+        $this->nombre                     = 'Reglamento para los propietarios o poseedores de animales caninos y felinos del Municipio de Torreón, Coahuila';
     //~ $this->autor                      = '';
         $this->fecha                      = '2014-01-01T00:00';
         // El nombre del archivo a crear
-        $this->archivo                    = 'reglamento-limpieza';
+        $this->archivo                    = 'reglamento-propietarios-poseedores-animales-caninos-felinos';
         // La descripción y claves dan información a los buscadores y redes sociales
-        $this->descripcion                = 'El presente Reglamento tiene por objeto regular el servicio de limpieza del Municipio.';
-        $this->claves                     = 'Reglamento, Abrogado, Limpieza';
+        $this->descripcion                = 'El presente reglamento tiene por objeto regular las obligaciones de aquellas personas que sean propietarios o poseedores de animales caninos o felinos en el Municipio de Torreón, Coah.';
+        $this->claves                     = 'Reglamento, Abrogados, Propietarios, Poseedores, Animales, Caninos, Felinos';
         // Ruta al archivo markdown con el contenido
-        $this->contenido_archivo_markdown = 'lib/ReglamentosAbrogados/ReglamentoLimpieza.md';
+        $this->contenido_archivo_markdown = 'lib/ReglamentosAbrogados/ReglamentoPropietariosPoseedoresAnimalesCaninosFelinos.md';
     } // constructor
 
-} // Clase ReglamentoLimpieza
+} // Clase ReglamentoPropietariosPoseedoresAnimalesCaninosFelinos
 
 ?>

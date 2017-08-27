@@ -1,6 +1,6 @@
 <?php
 /**
- * TrcIMPLAN Sitio Web - ReglamentoLimpieza
+ * Normatividad Torreón - ReglamentoInteriorTransitoVialidad
  *
  * Copyright (C) 2017 Guillermo Valdés Lozano <guivaloz@movimientolibre.com>
  *
@@ -17,15 +17,15 @@
  * You should have received a copy of the GNU General Public License
  * along with this program.  If not, see <http://www.gnu.org/licenses/>.
  *
- * @package TrcIMPLANSitioWeb
+ * @package NormatividadTorreon
  */
 
 namespace ReglamentosAbrogados;
 
 /**
- * Clase ReglamentoLimpieza
+ * Clase ReglamentoInteriorTransitoVialidad
  */
-class ReglamentoLimpieza extends \Base\PublicacionSchemaArticle {
+class ReglamentoInteriorTransitoVialidad extends \Base\PublicacionSchemaArticle {
 
     /**
      * Constructor
@@ -34,18 +34,18 @@ class ReglamentoLimpieza extends \Base\PublicacionSchemaArticle {
         // Ejecutar constructor en el padre
         parent::__construct();
         // Título, autor y fecha
-        $this->nombre                     = 'Reglamento de limpieza para el municipio de Torreón, Coahuila';
+        $this->nombre                     = 'Reglamento Interior de Tránsito y Vialidad';
     //~ $this->autor                      = '';
         $this->fecha                      = '2014-01-01T00:00';
         // El nombre del archivo a crear
-        $this->archivo                    = 'reglamento-limpieza';
+        $this->archivo                    = 'reglamento-interior-transito-vialidad';
         // La descripción y claves dan información a los buscadores y redes sociales
-        $this->descripcion                = 'El presente Reglamento tiene por objeto regular el servicio de limpieza del Municipio.';
-        $this->claves                     = 'Reglamento, Abrogado, Limpieza';
+        $this->descripcion                = 'Este Reglamento es de orden público, de aplicación interna y obligatoria para todo el personal administrativo y operativo de la Dirección de Tránsito y Vialidad del Municipio de Torreón, y tiene por objeto establecer la estructura orgánica de la dependencia, así como las bases, reglas y facultades a las que deberán sujetarse los servidores públicos adscritos a esta Dirección.';
+        $this->claves                     = 'Reglamento, Abrogado, Interior, Transito, Vialidad';
         // Ruta al archivo markdown con el contenido
-        $this->contenido_archivo_markdown = 'lib/ReglamentosAbrogados/ReglamentoLimpieza.md';
+        $this->contenido_archivo_markdown = 'lib/ReglamentosAbrogados/ReglamentoInteriorTransitoVialidad.md';
     } // constructor
 
-} // Clase ReglamentoLimpieza
+} // Clase ReglamentoInteriorTransitoVialidad
 
 ?>

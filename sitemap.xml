@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>http://www.normatividadtorreon.gob.mx/index.html</loc>
-    <lastmod>2017-08-22</lastmod>
+    <lastmod>2017-08-26</lastmod>
     <changefreq>daily</changefreq>
   </url>
   <url>
@@ -47,22 +47,72 @@
   </url>
   <url>
     <loc>http://www.normatividadtorreon.gob.mx/reglamentos-abrogados/reglamento-anuncios.html</loc>
-    <lastmod>2000-01-01</lastmod>
+    <lastmod>2014-01-01</lastmod>
     <changefreq>monthly</changefreq>
   </url>
   <url>
     <loc>http://www.normatividadtorreon.gob.mx/reglamentos-abrogados/reglamento-asentamientos-humanos-desarrollo-humano-construcciones.html</loc>
-    <lastmod>2000-01-01</lastmod>
+    <lastmod>2014-01-01</lastmod>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>http://www.normatividadtorreon.gob.mx/reglamentos-abrogados/reglamento-buen-gobierno.html</loc>
+    <lastmod>2014-01-01</lastmod>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>http://www.normatividadtorreon.gob.mx/reglamentos-abrogados/reglamento-expendios-carnes.html</loc>
+    <lastmod>2014-01-01</lastmod>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>http://www.normatividadtorreon.gob.mx/reglamentos-abrogados/reglamento-funcionamiento-aparatos-mecanicos-musicales.html</loc>
+    <lastmod>2014-01-01</lastmod>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>http://www.normatividadtorreon.gob.mx/reglamentos-abrogados/reglamento-funcionamiento-tabaretes.html</loc>
+    <lastmod>2014-01-01</lastmod>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>http://www.normatividadtorreon.gob.mx/reglamentos-abrogados/reglamento-inspeccion-verificacion.html</loc>
+    <lastmod>2014-01-01</lastmod>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>http://www.normatividadtorreon.gob.mx/reglamentos-abrogados/reglamento-instituto-municipal-documentacion.html</loc>
+    <lastmod>2014-01-01</lastmod>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>http://www.normatividadtorreon.gob.mx/reglamentos-abrogados/reglamento-interior-comite-municipal-contra-vandalismo-graffiti.html</loc>
+    <lastmod>2014-01-01</lastmod>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>http://www.normatividadtorreon.gob.mx/reglamentos-abrogados/reglamento-interior-transito-vialidad.html</loc>
+    <lastmod>2014-01-01</lastmod>
     <changefreq>monthly</changefreq>
   </url>
   <url>
     <loc>http://www.normatividadtorreon.gob.mx/reglamentos-abrogados/reglamento-limpieza.html</loc>
-    <lastmod>1991-06-01</lastmod>
+    <lastmod>2014-01-01</lastmod>
     <changefreq>monthly</changefreq>
   </url>
   <url>
     <loc>http://www.normatividadtorreon.gob.mx/reglamentos-abrogados/reglamento-panteones-crematorios.html</loc>
-    <lastmod>2002-12-24</lastmod>
+    <lastmod>2014-01-01</lastmod>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>http://www.normatividadtorreon.gob.mx/reglamentos-abrogados/reglamento-propietarios-poseedores-animales-caninos-felinos.html</loc>
+    <lastmod>2014-01-01</lastmod>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>http://www.normatividadtorreon.gob.mx/reglamentos-abrogados/reglamento-uso-goce-disfrute-propiedad-bienes-inmuebles.html</loc>
+    <lastmod>2014-01-01</lastmod>
     <changefreq>monthly</changefreq>
   </url>
   <url>

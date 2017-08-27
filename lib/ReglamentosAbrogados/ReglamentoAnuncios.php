@@ -36,7 +36,7 @@ class ReglamentoAnuncios extends \Base\PublicacionSchemaArticle {
         // Título, autor y fecha
         $this->nombre                     = 'Reglamento de anuncios para el Municipio de Torreon, Coahuila';
     //~ $this->autor                      = '';
-        $this->fecha                      = '2000-01-01T00:00';
+        $this->fecha                      = '2014-01-01T00:00';
         // El nombre del archivo a crear
         $this->archivo                    = 'reglamento-anuncios';
         // La descripción y claves dan información a los buscadores y redes sociales

@@ -36,7 +36,7 @@ class ReglamentoPanteonesCrematorios extends \Base\PublicacionSchemaArticle {
         // Título, autor y fecha
         $this->nombre                     = 'Reglamento de panteones y crematorios de la ciudad de Torreón, Coahuila';
     //~ $this->autor                      = '';
-        $this->fecha                      = '2002-12-24T00:00';
+        $this->fecha                      = '2014-01-01T00:00';
         // El nombre del archivo a crear
         $this->archivo                    = 'reglamento-panteones-crematorios';
         // La descripción y claves dan información a los buscadores y redes sociales

@@ -36,7 +36,7 @@ class ReglamentoAsentamientosHumanosDesarrolloHumanoConstrucciones extends \Base
         // Título, autor y fecha
         $this->nombre                     = 'Reglamento de asentamientos humanos, desarrollo humano y construcciones del Municipio de Torreón, Coahuila';
     //~ $this->autor                      = '';
-        $this->fecha                      = '2000-01-01T00:00';
+        $this->fecha                      = '2014-01-01T00:00';
         // El nombre del archivo a crear
         $this->archivo                    = 'reglamento-asentamientos-humanos-desarrollo-humano-construcciones';
         // La descripción y claves dan información a los buscadores y redes sociales
