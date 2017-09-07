@@ -36,7 +36,7 @@ class ReglamentoRastroMunicipal extends \Base\PublicacionSchemaArticle {
         // Título, autor y fecha
         $this->nombre                     = 'Reglamento para el Rastro Municipal de Torreón, Coahuila';
     //~ $this->autor                      = '';
-        $this->fecha                      = '1996-07-25T00:00';
+        $this->fecha                      = '2013-01-01T00:00';
         // El nombre del archivo a crear
         $this->archivo                    = 'reglamento-rastro-municipal';
         // La descripción y claves dan información a los buscadores y redes sociales

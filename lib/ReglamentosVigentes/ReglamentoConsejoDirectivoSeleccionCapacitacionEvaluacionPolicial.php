@@ -36,7 +36,7 @@ class ReglamentoConsejoDirectivoSeleccionCapacitacionEvaluacionPolicial extends 
         // Título, autor y fecha
         $this->nombre                     = 'Reglamento del Consejo Directivo de Selección, Capacitación y Evaluación Policial del Municipio de Torreón, Coahuila';
     //~ $this->autor                      = '';
-        $this->fecha                      = '1996-10-31T00:00';
+        $this->fecha                      = '2013-01-01T00:00';
         // El nombre del archivo a crear
         $this->archivo                    = 'reglamento-consejo-directivo-seleccion-capacitacion-evaluacion-policial';
         // La descripción y claves dan información a los buscadores y redes sociales

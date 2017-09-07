@@ -36,7 +36,7 @@ class ReglamentoParticipacionCiudadana extends \Base\PublicacionSchemaArticle {
         // Título, autor y fecha
         $this->nombre                     = 'Reglamento de participación ciudadana del Municipio de Torreón, Coahuila';
     //~ $this->autor                      = '';
-        $this->fecha                      = '2002-10-31T00:00';
+        $this->fecha                      = '2013-01-01T00:00';
         // El nombre del archivo a crear
         $this->archivo                    = 'reglamento-participacion-ciudadana';
         // La descripción y claves dan información a los buscadores y redes sociales

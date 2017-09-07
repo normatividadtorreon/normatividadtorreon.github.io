@@ -36,7 +36,7 @@ class ReglamentoConsejoMunicipalAtencionInfancia extends \Base\PublicacionSchema
         // Título, autor y fecha
         $this->nombre                     = 'Reglamento del Consejo Municipal de Atención a la Infancia';
     //~ $this->autor                      = '';
-        $this->fecha                      = '1999-10-25T00:00';
+        $this->fecha                      = '2013-01-01T00:00';
         // El nombre del archivo a crear
         $this->archivo                    = 'reglamento-consejo-municipal-atencion-infancia';
         // La descripción y claves dan información a los buscadores y redes sociales

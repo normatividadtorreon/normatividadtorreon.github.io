@@ -36,7 +36,7 @@ class ReglamentoFormacionComitesCiudadanos extends \Base\PublicacionSchemaArticl
         // Título, autor y fecha
         $this->nombre                     = 'Reglamento para la formación de comités ciudadanos en el Municipio de Torreón, Coahuila';
     //~ $this->autor                      = '';
-        $this->fecha                      = '2003-03-31T00:00';
+        $this->fecha                      = '2013-01-01T00:00';
         // El nombre del archivo a crear
         $this->archivo                    = 'reglamento-formacion-comites-ciudadanos';
         // La descripción y claves dan información a los buscadores y redes sociales

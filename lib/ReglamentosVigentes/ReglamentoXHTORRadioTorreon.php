@@ -36,7 +36,7 @@ class ReglamentoXHTORRadioTorreon extends \Base\PublicacionSchemaArticle {
         // Título, autor y fecha
         $this->nombre                     = 'Reglamento de XHTOR Radio Torreón';
     //~ $this->autor                      = '';
-        $this->fecha                      = '1996-11-30T00:00';
+        $this->fecha                      = '2013-01-01T00:00';
         // El nombre del archivo a crear
         $this->archivo                    = 'reglamento-xhtor-radio-torreon';
         // La descripción y claves dan información a los buscadores y redes sociales

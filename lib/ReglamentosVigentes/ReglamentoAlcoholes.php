@@ -1,6 +1,6 @@
 <?php
 /**
- * Normatividad Torreón - ReglamentoAcademiaPolicia
+ * Normatividad Torreón - ReglamentoAlcoholes
  *
  * Copyright (C) 2017 Guillermo Valdés Lozano <guivaloz@movimientolibre.com>
  *
@@ -23,9 +23,9 @@
 namespace ReglamentosVigentes;
 
 /**
- * Clase ReglamentoAcademiaPolicia
+ * Clase ReglamentoAlcoholes
  */
-class ReglamentoAcademiaPolicia extends \Base\PublicacionSchemaArticle {
+class ReglamentoAlcoholes extends \Base\PublicacionSchemaArticle {
 
     /**
      * Constructor
@@ -34,18 +34,18 @@ class ReglamentoAcademiaPolicia extends \Base\PublicacionSchemaArticle {
         // Ejecutar constructor en el padre
         parent::__construct();
         // Título, autor y fecha
-        $this->nombre                     = 'Reglamento de la Academia de Policía del Municipio de Torreón, Coahuila';
+        $this->nombre                     = 'Reglamento de alcoholes del municipio de Torreón, Coahuila';
     //~ $this->autor                      = '';
         $this->fecha                      = '2013-01-01T00:00';
         // El nombre del archivo a crear
-        $this->archivo                    = 'reglamento-academia-policia';
+        $this->archivo                    = 'reglamento-alcoholes';
         // La descripción y claves dan información a los buscadores y redes sociales
-        $this->descripcion                = 'El presente reglamento tiene por objeto estructurar y organizar el funcionamiento de la Academia, así como lo relativo a determinar las bases y condiciones a que se sujetarán los programas de formación policiaca, su elaboración, evaluación, ejecución y modificación.';
-        $this->claves                     = 'Reglamento, Vigente, Academia, Policia';
+        $this->descripcion                = 'El presente Reglamento tiene por objeto ordenar y regular el funcionamiento de los establecimientos en donde se venden, almacenen, distribuyen y consumen bebidas alcohólicas, así como prevenir y combatir el abuso en el consumo del alcohol en el Municipio.';
+        $this->claves                     = 'Reglamento, Vigente, Alcoholes';
         // Ruta al archivo markdown con el contenido
-        $this->contenido_archivo_markdown = 'lib/ReglamentosVigentes/ReglamentoAcademiaPolicia.md';
+        $this->contenido_archivo_markdown = 'lib/ReglamentosVigentes/ReglamentoAlcoholes.md';
     } // constructor
 
-} // Clase ReglamentoAcademiaPolicia
+} // Clase ReglamentoAlcoholes
 
 ?>

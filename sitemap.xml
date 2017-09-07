@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>http://www.normatividadtorreon.gob.mx/index.html</loc>
-    <lastmod>2017-09-02</lastmod>
+    <lastmod>2017-09-06</lastmod>
     <changefreq>daily</changefreq>
   </url>
   <url>
@@ -127,11 +127,16 @@
   </url>
   <url>
     <loc>http://www.normatividadtorreon.gob.mx/reglamentos-vigentes/reglamento-academia-policia.html</loc>
-    <lastmod>1999-11-30</lastmod>
+    <lastmod>2013-01-01</lastmod>
     <changefreq>monthly</changefreq>
   </url>
   <url>
     <loc>http://www.normatividadtorreon.gob.mx/reglamentos-vigentes/reglamento-administracion-funcionamiento-operacion-museo-ferrocarril.html</loc>
+    <lastmod>2013-01-01</lastmod>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>http://www.normatividadtorreon.gob.mx/reglamentos-vigentes/reglamento-alcoholes.html</loc>
     <lastmod>2013-01-01</lastmod>
     <changefreq>monthly</changefreq>
   </url>
@@ -142,12 +147,12 @@
   </url>
   <url>
     <loc>http://www.normatividadtorreon.gob.mx/reglamentos-vigentes/reglamento-consejo-directivo-seleccion-capacitacion-evaluacion-policial.html</loc>
-    <lastmod>1996-10-31</lastmod>
+    <lastmod>2013-01-01</lastmod>
     <changefreq>monthly</changefreq>
   </url>
   <url>
     <loc>http://www.normatividadtorreon.gob.mx/reglamentos-vigentes/reglamento-consejo-municipal-atencion-infancia.html</loc>
-    <lastmod>1999-10-25</lastmod>
+    <lastmod>2013-01-01</lastmod>
     <changefreq>monthly</changefreq>
   </url>
   <url>
@@ -157,22 +162,32 @@
   </url>
   <url>
     <loc>http://www.normatividadtorreon.gob.mx/reglamentos-vigentes/reglamento-designar-ciudadanos-distinguidos.html</loc>
-    <lastmod>1999-05-31</lastmod>
+    <lastmod>2013-01-01</lastmod>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>http://www.normatividadtorreon.gob.mx/reglamentos-vigentes/reglamento-ejercicio-actividades-comerciales.html</loc>
+    <lastmod>2013-01-01</lastmod>
     <changefreq>monthly</changefreq>
   </url>
   <url>
     <loc>http://www.normatividadtorreon.gob.mx/reglamentos-vigentes/reglamento-formacion-comites-ciudadanos.html</loc>
-    <lastmod>2003-03-31</lastmod>
+    <lastmod>2013-01-01</lastmod>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>http://www.normatividadtorreon.gob.mx/reglamentos-vigentes/reglamento-general-establecimientos-mercantiles-espectaculos-publicos.html</loc>
+    <lastmod>2013-01-01</lastmod>
     <changefreq>monthly</changefreq>
   </url>
   <url>
     <loc>http://www.normatividadtorreon.gob.mx/reglamentos-vigentes/reglamento-interior-comite-municipal-adicciones.html</loc>
-    <lastmod>1999-11-30</lastmod>
+    <lastmod>2013-01-01</lastmod>
     <changefreq>monthly</changefreq>
   </url>
   <url>
     <loc>http://www.normatividadtorreon.gob.mx/reglamentos-vigentes/reglamento-interior-museo-ferrocarril.html</loc>
-    <lastmod>2014-01-01</lastmod>
+    <lastmod>2013-01-01</lastmod>
     <changefreq>monthly</changefreq>
   </url>
   <url>
@@ -187,32 +202,37 @@
   </url>
   <url>
     <loc>http://www.normatividadtorreon.gob.mx/reglamentos-vigentes/reglamento-organico-administracion-publica-municipal.html</loc>
-    <lastmod>2013-12-31</lastmod>
+    <lastmod>2013-01-01</lastmod>
     <changefreq>monthly</changefreq>
   </url>
   <url>
     <loc>http://www.normatividadtorreon.gob.mx/reglamentos-vigentes/reglamento-parques-jardines-paseos-publicos.html</loc>
-    <lastmod>2014-01-31</lastmod>
+    <lastmod>2013-01-01</lastmod>
     <changefreq>monthly</changefreq>
   </url>
   <url>
     <loc>http://www.normatividadtorreon.gob.mx/reglamentos-vigentes/reglamento-participacion-ciudadana.html</loc>
-    <lastmod>2002-10-31</lastmod>
+    <lastmod>2013-01-01</lastmod>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>http://www.normatividadtorreon.gob.mx/reglamentos-vigentes/reglamento-plaza-comercial-antigua-harinera.html</loc>
+    <lastmod>2013-01-01</lastmod>
     <changefreq>monthly</changefreq>
   </url>
   <url>
     <loc>http://www.normatividadtorreon.gob.mx/reglamentos-vigentes/reglamento-proteccion-civil.html</loc>
-    <lastmod>2000-01-31</lastmod>
+    <lastmod>2013-01-01</lastmod>
     <changefreq>monthly</changefreq>
   </url>
   <url>
     <loc>http://www.normatividadtorreon.gob.mx/reglamentos-vigentes/reglamento-rastro-municipal.html</loc>
-    <lastmod>1996-07-25</lastmod>
+    <lastmod>2013-01-01</lastmod>
     <changefreq>monthly</changefreq>
   </url>
   <url>
     <loc>http://www.normatividadtorreon.gob.mx/reglamentos-vigentes/reglamento-servicio-profesional-carrera.html</loc>
-    <lastmod>2002-01-31</lastmod>
+    <lastmod>2013-01-01</lastmod>
     <changefreq>monthly</changefreq>
   </url>
   <url>
@@ -222,7 +242,12 @@
   </url>
   <url>
     <loc>http://www.normatividadtorreon.gob.mx/reglamentos-vigentes/reglamento-xhtor-radio-torreon.html</loc>
-    <lastmod>1996-11-30</lastmod>
+    <lastmod>2013-01-01</lastmod>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>http://www.normatividadtorreon.gob.mx/reglamentos-vigentes/reglemento-expedicion-constancias-permisos-licencias-autorizaciones-realizacion-acciones-urbanas.html</loc>
+    <lastmod>2013-01-01</lastmod>
     <changefreq>monthly</changefreq>
   </url>
 </urlset>

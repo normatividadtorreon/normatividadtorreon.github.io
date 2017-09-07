@@ -1,6 +1,6 @@
 <?php
 /**
- * Normatividad Torreón - ReglamentoAcademiaPolicia
+ * Normatividad Torreón - ReglamentoEjercicioActividadesComerciales
  *
  * Copyright (C) 2017 Guillermo Valdés Lozano <guivaloz@movimientolibre.com>
  *
@@ -23,9 +23,9 @@
 namespace ReglamentosVigentes;
 
 /**
- * Clase ReglamentoAcademiaPolicia
+ * Clase ReglamentoEjercicioActividadesComerciales
  */
-class ReglamentoAcademiaPolicia extends \Base\PublicacionSchemaArticle {
+class ReglamentoEjercicioActividadesComerciales extends \Base\PublicacionSchemaArticle {
 
     /**
      * Constructor
@@ -34,18 +34,18 @@ class ReglamentoAcademiaPolicia extends \Base\PublicacionSchemaArticle {
         // Ejecutar constructor en el padre
         parent::__construct();
         // Título, autor y fecha
-        $this->nombre                     = 'Reglamento de la Academia de Policía del Municipio de Torreón, Coahuila';
+        $this->nombre                     = 'Reglamento para el ejercicio de actividades comerciales en mercados, plazas, y sitios públicos del municipio de Torreón, Coahuila';
     //~ $this->autor                      = '';
         $this->fecha                      = '2013-01-01T00:00';
         // El nombre del archivo a crear
-        $this->archivo                    = 'reglamento-academia-policia';
+        $this->archivo                    = 'reglamento-ejercicio-actividades-comerciales';
         // La descripción y claves dan información a los buscadores y redes sociales
-        $this->descripcion                = 'El presente reglamento tiene por objeto estructurar y organizar el funcionamiento de la Academia, así como lo relativo a determinar las bases y condiciones a que se sujetarán los programas de formación policiaca, su elaboración, evaluación, ejecución y modificación.';
-        $this->claves                     = 'Reglamento, Vigente, Academia, Policia';
+        $this->descripcion                = 'El presente Reglamento tiene por objeto regular los lugares destinados por el Ayuntamiento, para que la población recurra a realizar la compra – venta de los artículos que en ellos se expenden.';
+        $this->claves                     = 'Reglamento, Vigente, Actividades, Comerciales';
         // Ruta al archivo markdown con el contenido
-        $this->contenido_archivo_markdown = 'lib/ReglamentosVigentes/ReglamentoAcademiaPolicia.md';
+        $this->contenido_archivo_markdown = 'lib/ReglamentosVigentes/ReglamentoEjercicioActividadesComerciales.md';
     } // constructor
 
-} // Clase ReglamentoAcademiaPolicia
+} // Clase ReglamentoEjercicioActividadesComerciales
 
 ?>

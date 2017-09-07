@@ -36,7 +36,7 @@ class ReglamentoProteccionCivil extends \Base\PublicacionSchemaArticle {
         // Título, autor y fecha
         $this->nombre                     = 'Reglamento de protección civil del Municipio de Torreón, Coahuila';
     //~ $this->autor                      = '';
-        $this->fecha                      = '2000-01-31T00:00';
+        $this->fecha                      = '2013-01-01T00:00';
         // El nombre del archivo a crear
         $this->archivo                    = 'reglamento-proteccion-civil';
         // La descripción y claves dan información a los buscadores y redes sociales
