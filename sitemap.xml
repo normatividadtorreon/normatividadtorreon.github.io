@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>http://www.normatividadtorreon.gob.mx/index.html</loc>
-    <lastmod>2017-09-06</lastmod>
+    <lastmod>2017-09-07</lastmod>
     <changefreq>daily</changefreq>
   </url>
   <url>
@@ -126,6 +126,11 @@
     <changefreq>monthly</changefreq>
   </url>
   <url>
+    <loc>http://www.normatividadtorreon.gob.mx/reglamentos-vigentes/decreto-implan.html</loc>
+    <lastmod>2013-01-01</lastmod>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
     <loc>http://www.normatividadtorreon.gob.mx/reglamentos-vigentes/reglamento-academia-policia.html</loc>
     <lastmod>2013-01-01</lastmod>
     <changefreq>monthly</changefreq>
@@ -137,6 +142,16 @@
   </url>
   <url>
     <loc>http://www.normatividadtorreon.gob.mx/reglamentos-vigentes/reglamento-alcoholes.html</loc>
+    <lastmod>2013-01-01</lastmod>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>http://www.normatividadtorreon.gob.mx/reglamentos-vigentes/reglamento-anuncios.html</loc>
+    <lastmod>2013-01-01</lastmod>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>http://www.normatividadtorreon.gob.mx/reglamentos-vigentes/reglamento-asentamientos-humanos-desarrollo-humano-construcciones.html</loc>
     <lastmod>2013-01-01</lastmod>
     <changefreq>monthly</changefreq>
   </url>
@@ -167,6 +182,11 @@
   </url>
   <url>
     <loc>http://www.normatividadtorreon.gob.mx/reglamentos-vigentes/reglamento-ejercicio-actividades-comerciales.html</loc>
+    <lastmod>2013-01-01</lastmod>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>http://www.normatividadtorreon.gob.mx/reglamentos-vigentes/reglamento-especificaciones-construccion-servicios-publicos-pavimentos.html</loc>
     <lastmod>2013-01-01</lastmod>
     <changefreq>monthly</changefreq>
   </url>
@@ -212,6 +232,11 @@
   </url>
   <url>
     <loc>http://www.normatividadtorreon.gob.mx/reglamentos-vigentes/reglamento-participacion-ciudadana.html</loc>
+    <lastmod>2013-01-01</lastmod>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>http://www.normatividadtorreon.gob.mx/reglamentos-vigentes/reglamento-paseo-comercial-centro-historico.html</loc>
     <lastmod>2013-01-01</lastmod>
     <changefreq>monthly</changefreq>
   </url>
