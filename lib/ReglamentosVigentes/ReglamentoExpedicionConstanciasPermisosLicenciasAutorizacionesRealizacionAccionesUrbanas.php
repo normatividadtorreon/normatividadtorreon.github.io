@@ -1,6 +1,6 @@
 <?php
 /**
- * Normatividad Torreón - ReglementoExpedicionConstanciasPermisosLicenciasAutorizacionesRealizacionAccionesUrbanas
+ * Normatividad Torreón - ReglamentoExpedicionConstanciasPermisosLicenciasAutorizacionesRealizacionAccionesUrbanas
  *
  * Copyright (C) 2017 Guillermo Valdés Lozano <guivaloz@movimientolibre.com>
  *
@@ -23,9 +23,9 @@
 namespace ReglamentosVigentes;
 
 /**
- * Clase ReglementoExpedicionConstanciasPermisosLicenciasAutorizacionesRealizacionAccionesUrbanas
+ * Clase ReglamentoExpedicionConstanciasPermisosLicenciasAutorizacionesRealizacionAccionesUrbanas
  */
-class ReglementoExpedicionConstanciasPermisosLicenciasAutorizacionesRealizacionAccionesUrbanas extends \Base\PublicacionSchemaArticle {
+class ReglamentoExpedicionConstanciasPermisosLicenciasAutorizacionesRealizacionAccionesUrbanas extends \Base\PublicacionSchemaArticle {
 
     /**
      * Constructor
@@ -38,14 +38,14 @@ class ReglementoExpedicionConstanciasPermisosLicenciasAutorizacionesRealizacionA
     //~ $this->autor                      = '';
         $this->fecha                      = '2013-01-01T00:00';
         // El nombre del archivo a crear
-        $this->archivo                    = 'reglemento-expedicion-constancias-permisos-licencias-autorizaciones-realizacion-acciones-urbanas';
+        $this->archivo                    = 'reglamento-expedicion-constancias-permisos-licencias-autorizaciones-realizacion-acciones-urbanas';
         // La descripción y claves dan información a los buscadores y redes sociales
         $this->descripcion                = 'El presente Reglamento tiene por objeto establecer los requisitos, plazos y procedimientos que deberán seguir las personas físicas y morales de derecho público y privado para la obtención y renovación de constancias, permisos, licencias, y autorizaciones para la realización de acciones urbanas dentro del territorio del Municipio.';
         $this->claves                     = 'Reglamento, Vigente, Acciones, Urbanas';
         // Ruta al archivo markdown con el contenido
-        $this->contenido_archivo_markdown = 'lib/ReglamentosVigentes/ReglementoExpedicionConstanciasPermisosLicenciasAutorizacionesRealizacionAccionesUrbanas.md';
+        $this->contenido_archivo_markdown = 'lib/ReglamentosVigentes/ReglamentoExpedicionConstanciasPermisosLicenciasAutorizacionesRealizacionAccionesUrbanas.md';
     } // constructor
 
-} // Clase ReglementoExpedicionConstanciasPermisosLicenciasAutorizacionesRealizacionAccionesUrbanas
+} // Clase ReglamentoExpedicionConstanciasPermisosLicenciasAutorizacionesRealizacionAccionesUrbanas
 
 ?>

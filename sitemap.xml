@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>http://www.normatividadtorreon.gob.mx/index.html</loc>
-    <lastmod>2017-09-07</lastmod>
+    <lastmod>2017-09-11</lastmod>
     <changefreq>daily</changefreq>
   </url>
   <url>
@@ -161,6 +161,11 @@
     <changefreq>monthly</changefreq>
   </url>
   <url>
+    <loc>http://www.normatividadtorreon.gob.mx/reglamentos-vigentes/reglamento-conceder-uso-goce-disfrute-propiedad-bienes-inmuebles-pertenecientes.html</loc>
+    <lastmod>2013-01-01</lastmod>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
     <loc>http://www.normatividadtorreon.gob.mx/reglamentos-vigentes/reglamento-consejo-directivo-seleccion-capacitacion-evaluacion-policial.html</loc>
     <lastmod>2013-01-01</lastmod>
     <changefreq>monthly</changefreq>
@@ -191,6 +196,11 @@
     <changefreq>monthly</changefreq>
   </url>
   <url>
+    <loc>http://www.normatividadtorreon.gob.mx/reglamentos-vigentes/reglamento-expedicion-constancias-permisos-licencias-autorizaciones-realizacion-acciones-urbanas.html</loc>
+    <lastmod>2013-01-01</lastmod>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
     <loc>http://www.normatividadtorreon.gob.mx/reglamentos-vigentes/reglamento-formacion-comites-ciudadanos.html</loc>
     <lastmod>2013-01-01</lastmod>
     <changefreq>monthly</changefreq>
@@ -206,6 +216,11 @@
     <changefreq>monthly</changefreq>
   </url>
   <url>
+    <loc>http://www.normatividadtorreon.gob.mx/reglamentos-vigentes/reglamento-interior-consejo-municipal-desarrollo-urbano.html</loc>
+    <lastmod>2013-01-01</lastmod>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
     <loc>http://www.normatividadtorreon.gob.mx/reglamentos-vigentes/reglamento-interior-museo-ferrocarril.html</loc>
     <lastmod>2013-01-01</lastmod>
     <changefreq>monthly</changefreq>
@@ -217,6 +232,11 @@
   </url>
   <url>
     <loc>http://www.normatividadtorreon.gob.mx/reglamentos-vigentes/reglamento-interior-republicano-ayuntamiento.html</loc>
+    <lastmod>2013-01-01</lastmod>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>http://www.normatividadtorreon.gob.mx/reglamentos-vigentes/reglamento-ocupacion-temporal-via-publica.html</loc>
     <lastmod>2013-01-01</lastmod>
     <changefreq>monthly</changefreq>
   </url>
@@ -241,6 +261,11 @@
     <changefreq>monthly</changefreq>
   </url>
   <url>
+    <loc>http://www.normatividadtorreon.gob.mx/reglamentos-vigentes/reglamento-patrimonio-inmobiliario.html</loc>
+    <lastmod>2013-01-01</lastmod>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
     <loc>http://www.normatividadtorreon.gob.mx/reglamentos-vigentes/reglamento-plaza-comercial-antigua-harinera.html</loc>
     <lastmod>2013-01-01</lastmod>
     <changefreq>monthly</changefreq>
@@ -251,7 +276,27 @@
     <changefreq>monthly</changefreq>
   </url>
   <url>
+    <loc>http://www.normatividadtorreon.gob.mx/reglamentos-vigentes/reglamento-proteccion-conservacion-conjunto-historico-patrimonio-construido.html</loc>
+    <lastmod>2013-01-01</lastmod>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>http://www.normatividadtorreon.gob.mx/reglamentos-vigentes/reglamento-proteccion-conservacion-edificios-monumentos-integran-patrimonio-cultural.html</loc>
+    <lastmod>2013-01-01</lastmod>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
     <loc>http://www.normatividadtorreon.gob.mx/reglamentos-vigentes/reglamento-rastro-municipal.html</loc>
+    <lastmod>2013-01-01</lastmod>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>http://www.normatividadtorreon.gob.mx/reglamentos-vigentes/reglamento-regimen-propiedad-condominio-concerniente-plaza-comercial-estacionamiento-alianza.html</loc>
+    <lastmod>2013-01-01</lastmod>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>http://www.normatividadtorreon.gob.mx/reglamentos-vigentes/reglamento-reserva-ecologica-municipal-sierra-canon-jimulco.html</loc>
     <lastmod>2013-01-01</lastmod>
     <changefreq>monthly</changefreq>
   </url>
@@ -267,11 +312,6 @@
   </url>
   <url>
     <loc>http://www.normatividadtorreon.gob.mx/reglamentos-vigentes/reglamento-xhtor-radio-torreon.html</loc>
-    <lastmod>2013-01-01</lastmod>
-    <changefreq>monthly</changefreq>
-  </url>
-  <url>
-    <loc>http://www.normatividadtorreon.gob.mx/reglamentos-vigentes/reglemento-expedicion-constancias-permisos-licencias-autorizaciones-realizacion-acciones-urbanas.html</loc>
     <lastmod>2013-01-01</lastmod>
     <changefreq>monthly</changefreq>
   </url>
