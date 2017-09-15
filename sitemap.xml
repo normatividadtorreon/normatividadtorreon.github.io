@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>http://www.normatividadtorreon.gob.mx/index.html</loc>
-    <lastmod>2017-09-11</lastmod>
+    <lastmod>2017-09-14</lastmod>
     <changefreq>daily</changefreq>
   </url>
   <url>
@@ -116,6 +116,21 @@
     <changefreq>monthly</changefreq>
   </url>
   <url>
+    <loc>http://www.normatividadtorreon.gob.mx/reglamentos-vigentes/bando-policia-gobierno.html</loc>
+    <lastmod>2013-01-01</lastmod>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>http://www.normatividadtorreon.gob.mx/reglamentos-vigentes/decreto-creacion-direccion-pensiones-beneficios-sociales-trabajadores-servicio.html</loc>
+    <lastmod>2013-01-01</lastmod>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>http://www.normatividadtorreon.gob.mx/reglamentos-vigentes/decreto-creacion-hospital-municipal.html</loc>
+    <lastmod>2013-01-01</lastmod>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
     <loc>http://www.normatividadtorreon.gob.mx/reglamentos-vigentes/decreto-creacion-instituto-municipal-cultura-educacion.html</loc>
     <lastmod>2013-01-01</lastmod>
     <changefreq>monthly</changefreq>
@@ -141,7 +156,17 @@
     <changefreq>monthly</changefreq>
   </url>
   <url>
+    <loc>http://www.normatividadtorreon.gob.mx/reglamentos-vigentes/reglamento-adquisiciones-contratacion-servicios-arrendamientos-enajenaciones.html</loc>
+    <lastmod>2013-01-01</lastmod>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
     <loc>http://www.normatividadtorreon.gob.mx/reglamentos-vigentes/reglamento-alcoholes.html</loc>
+    <lastmod>2013-01-01</lastmod>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>http://www.normatividadtorreon.gob.mx/reglamentos-vigentes/reglamento-alumbrado-publico.html</loc>
     <lastmod>2013-01-01</lastmod>
     <changefreq>monthly</changefreq>
   </url>
@@ -166,6 +191,11 @@
     <changefreq>monthly</changefreq>
   </url>
   <url>
+    <loc>http://www.normatividadtorreon.gob.mx/reglamentos-vigentes/reglamento-consejo-asesor-reserva-ecologica-municipal-sierra-canon-jimulco.html</loc>
+    <lastmod>2013-01-01</lastmod>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
     <loc>http://www.normatividadtorreon.gob.mx/reglamentos-vigentes/reglamento-consejo-directivo-seleccion-capacitacion-evaluacion-policial.html</loc>
     <lastmod>2013-01-01</lastmod>
     <changefreq>monthly</changefreq>
@@ -176,7 +206,22 @@
     <changefreq>monthly</changefreq>
   </url>
   <url>
+    <loc>http://www.normatividadtorreon.gob.mx/reglamentos-vigentes/reglamento-consejo-promotor-desarrollo-reservas-territoriales.html</loc>
+    <lastmod>2013-01-01</lastmod>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>http://www.normatividadtorreon.gob.mx/reglamentos-vigentes/reglamento-corridas-espectaculos-taurinos.html</loc>
+    <lastmod>2013-01-01</lastmod>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
     <loc>http://www.normatividadtorreon.gob.mx/reglamentos-vigentes/reglamento-creacion-instituto-municipal-mujer.html</loc>
+    <lastmod>2013-01-01</lastmod>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>http://www.normatividadtorreon.gob.mx/reglamentos-vigentes/reglamento-del-consejo-consultivo-municipal-del-transporte.html</loc>
     <lastmod>2013-01-01</lastmod>
     <changefreq>monthly</changefreq>
   </url>
@@ -206,6 +251,11 @@
     <changefreq>monthly</changefreq>
   </url>
   <url>
+    <loc>http://www.normatividadtorreon.gob.mx/reglamentos-vigentes/reglamento-gasolineras-gasolinas-diesel-gas-licuado.html</loc>
+    <lastmod>2013-01-01</lastmod>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
     <loc>http://www.normatividadtorreon.gob.mx/reglamentos-vigentes/reglamento-general-establecimientos-mercantiles-espectaculos-publicos.html</loc>
     <lastmod>2013-01-01</lastmod>
     <changefreq>monthly</changefreq>
@@ -221,6 +271,16 @@
     <changefreq>monthly</changefreq>
   </url>
   <url>
+    <loc>http://www.normatividadtorreon.gob.mx/reglamentos-vigentes/reglamento-interior-dgsppc.html</loc>
+    <lastmod>2013-01-01</lastmod>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>http://www.normatividadtorreon.gob.mx/reglamentos-vigentes/reglamento-interior-justicia-municipal.html</loc>
+    <lastmod>2013-01-01</lastmod>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
     <loc>http://www.normatividadtorreon.gob.mx/reglamentos-vigentes/reglamento-interior-museo-ferrocarril.html</loc>
     <lastmod>2013-01-01</lastmod>
     <changefreq>monthly</changefreq>
@@ -232,6 +292,11 @@
   </url>
   <url>
     <loc>http://www.normatividadtorreon.gob.mx/reglamentos-vigentes/reglamento-interior-republicano-ayuntamiento.html</loc>
+    <lastmod>2013-01-01</lastmod>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>http://www.normatividadtorreon.gob.mx/reglamentos-vigentes/reglamento-interior-simas.html</loc>
     <lastmod>2013-01-01</lastmod>
     <changefreq>monthly</changefreq>
   </url>
@@ -301,12 +366,22 @@
     <changefreq>monthly</changefreq>
   </url>
   <url>
+    <loc>http://www.normatividadtorreon.gob.mx/reglamentos-vigentes/reglamento-salud.html</loc>
+    <lastmod>2013-01-01</lastmod>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
     <loc>http://www.normatividadtorreon.gob.mx/reglamentos-vigentes/reglamento-servicio-profesional-carrera.html</loc>
     <lastmod>2013-01-01</lastmod>
     <changefreq>monthly</changefreq>
   </url>
   <url>
     <loc>http://www.normatividadtorreon.gob.mx/reglamentos-vigentes/reglamento-sistema-servicio-civil-carrera-municipal.html</loc>
+    <lastmod>2013-01-01</lastmod>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>http://www.normatividadtorreon.gob.mx/reglamentos-vigentes/reglamento-transporte-publico.html</loc>
     <lastmod>2013-01-01</lastmod>
     <changefreq>monthly</changefreq>
   </url>
