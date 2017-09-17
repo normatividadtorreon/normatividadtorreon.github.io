@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>http://www.normatividadtorreon.gob.mx/index.html</loc>
-    <lastmod>2017-09-14</lastmod>
+    <lastmod>2017-09-16</lastmod>
     <changefreq>daily</changefreq>
   </url>
   <url>
@@ -196,6 +196,11 @@
     <changefreq>monthly</changefreq>
   </url>
   <url>
+    <loc>http://www.normatividadtorreon.gob.mx/reglamentos-vigentes/reglamento-consejo-ciudadano-transparencia-finanzas-politicas-publicas.html</loc>
+    <lastmod>2013-01-01</lastmod>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
     <loc>http://www.normatividadtorreon.gob.mx/reglamentos-vigentes/reglamento-consejo-directivo-seleccion-capacitacion-evaluacion-policial.html</loc>
     <lastmod>2013-01-01</lastmod>
     <changefreq>monthly</changefreq>
@@ -222,6 +227,11 @@
   </url>
   <url>
     <loc>http://www.normatividadtorreon.gob.mx/reglamentos-vigentes/reglamento-del-consejo-consultivo-municipal-del-transporte.html</loc>
+    <lastmod>2013-01-01</lastmod>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>http://www.normatividadtorreon.gob.mx/reglamentos-vigentes/reglamento-desarrollo-sustentable-proteccion-medio-ambiente.html</loc>
     <lastmod>2013-01-01</lastmod>
     <changefreq>monthly</changefreq>
   </url>
@@ -301,6 +311,16 @@
     <changefreq>monthly</changefreq>
   </url>
   <url>
+    <loc>http://www.normatividadtorreon.gob.mx/reglamentos-vigentes/reglamento-movilidad-urbana.html</loc>
+    <lastmod>2013-01-01</lastmod>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>http://www.normatividadtorreon.gob.mx/reglamentos-vigentes/reglamento-municipal-uso-lenguaje-no-sexista.html</loc>
+    <lastmod>2013-01-01</lastmod>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
     <loc>http://www.normatividadtorreon.gob.mx/reglamentos-vigentes/reglamento-ocupacion-temporal-via-publica.html</loc>
     <lastmod>2013-01-01</lastmod>
     <changefreq>monthly</changefreq>
@@ -357,6 +377,11 @@
   </url>
   <url>
     <loc>http://www.normatividadtorreon.gob.mx/reglamentos-vigentes/reglamento-regimen-propiedad-condominio-concerniente-plaza-comercial-estacionamiento-alianza.html</loc>
+    <lastmod>2013-01-01</lastmod>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>http://www.normatividadtorreon.gob.mx/reglamentos-vigentes/reglamento-regular-grafitti.html</loc>
     <lastmod>2013-01-01</lastmod>
     <changefreq>monthly</changefreq>
   </url>
