@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>http://www.normatividadtorreon.gob.mx/index.html</loc>
-    <lastmod>2017-09-16</lastmod>
+    <lastmod>2017-09-17</lastmod>
     <changefreq>daily</changefreq>
   </url>
   <url>
@@ -131,17 +131,17 @@
     <changefreq>monthly</changefreq>
   </url>
   <url>
+    <loc>http://www.normatividadtorreon.gob.mx/reglamentos-vigentes/decreto-creacion-implan.html</loc>
+    <lastmod>2013-01-01</lastmod>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
     <loc>http://www.normatividadtorreon.gob.mx/reglamentos-vigentes/decreto-creacion-instituto-municipal-cultura-educacion.html</loc>
     <lastmod>2013-01-01</lastmod>
     <changefreq>monthly</changefreq>
   </url>
   <url>
     <loc>http://www.normatividadtorreon.gob.mx/reglamentos-vigentes/decreto-creacion-instituto-municipal-deporte.html</loc>
-    <lastmod>2013-01-01</lastmod>
-    <changefreq>monthly</changefreq>
-  </url>
-  <url>
-    <loc>http://www.normatividadtorreon.gob.mx/reglamentos-vigentes/decreto-implan.html</loc>
     <lastmod>2013-01-01</lastmod>
     <changefreq>monthly</changefreq>
   </url>
@@ -176,12 +176,22 @@
     <changefreq>monthly</changefreq>
   </url>
   <url>
+    <loc>http://www.normatividadtorreon.gob.mx/reglamentos-vigentes/reglamento-archivo-municipal.html</loc>
+    <lastmod>2013-01-01</lastmod>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
     <loc>http://www.normatividadtorreon.gob.mx/reglamentos-vigentes/reglamento-asentamientos-humanos-desarrollo-humano-construcciones.html</loc>
     <lastmod>2013-01-01</lastmod>
     <changefreq>monthly</changefreq>
   </url>
   <url>
     <loc>http://www.normatividadtorreon.gob.mx/reglamentos-vigentes/reglamento-atencion-personas-capacidades-diferentes.html</loc>
+    <lastmod>2013-01-01</lastmod>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>http://www.normatividadtorreon.gob.mx/reglamentos-vigentes/reglamento-complejo-deportivo-la-jabonera.html</loc>
     <lastmod>2013-01-01</lastmod>
     <changefreq>monthly</changefreq>
   </url>
@@ -197,6 +207,11 @@
   </url>
   <url>
     <loc>http://www.normatividadtorreon.gob.mx/reglamentos-vigentes/reglamento-consejo-ciudadano-transparencia-finanzas-politicas-publicas.html</loc>
+    <lastmod>2013-01-01</lastmod>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>http://www.normatividadtorreon.gob.mx/reglamentos-vigentes/reglamento-consejo-consultivo-municipal-transporte.html</loc>
     <lastmod>2013-01-01</lastmod>
     <changefreq>monthly</changefreq>
   </url>
@@ -226,12 +241,12 @@
     <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>http://www.normatividadtorreon.gob.mx/reglamentos-vigentes/reglamento-del-consejo-consultivo-municipal-del-transporte.html</loc>
+    <loc>http://www.normatividadtorreon.gob.mx/reglamentos-vigentes/reglamento-desarrollo-sustentable-proteccion-medio-ambiente.html</loc>
     <lastmod>2013-01-01</lastmod>
     <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>http://www.normatividadtorreon.gob.mx/reglamentos-vigentes/reglamento-desarrollo-sustentable-proteccion-medio-ambiente.html</loc>
+    <loc>http://www.normatividadtorreon.gob.mx/reglamentos-vigentes/reglamento-desarrollo-urbano-zonificacion-uso-suelo-construccion.html</loc>
     <lastmod>2013-01-01</lastmod>
     <changefreq>monthly</changefreq>
   </url>
@@ -261,6 +276,11 @@
     <changefreq>monthly</changefreq>
   </url>
   <url>
+    <loc>http://www.normatividadtorreon.gob.mx/reglamentos-vigentes/reglamento-gaceta-municipal.html</loc>
+    <lastmod>2013-01-01</lastmod>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
     <loc>http://www.normatividadtorreon.gob.mx/reglamentos-vigentes/reglamento-gasolineras-gasolinas-diesel-gas-licuado.html</loc>
     <lastmod>2013-01-01</lastmod>
     <changefreq>monthly</changefreq>
@@ -281,7 +301,22 @@
     <changefreq>monthly</changefreq>
   </url>
   <url>
+    <loc>http://www.normatividadtorreon.gob.mx/reglamentos-vigentes/reglamento-interior-contraloria.html</loc>
+    <lastmod>2013-01-01</lastmod>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
     <loc>http://www.normatividadtorreon.gob.mx/reglamentos-vigentes/reglamento-interior-dgsppc.html</loc>
+    <lastmod>2013-01-01</lastmod>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>http://www.normatividadtorreon.gob.mx/reglamentos-vigentes/reglamento-interior-dif.html</loc>
+    <lastmod>2013-01-01</lastmod>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>http://www.normatividadtorreon.gob.mx/reglamentos-vigentes/reglamento-interior-imm.html</loc>
     <lastmod>2013-01-01</lastmod>
     <changefreq>monthly</changefreq>
   </url>
@@ -311,7 +346,22 @@
     <changefreq>monthly</changefreq>
   </url>
   <url>
+    <loc>http://www.normatividadtorreon.gob.mx/reglamentos-vigentes/reglamento-interior-secretaria-republicano-ayuntamiento.html</loc>
+    <lastmod>2013-01-01</lastmod>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>http://www.normatividadtorreon.gob.mx/reglamentos-vigentes/reglamento-mejora-regulatoria.html</loc>
+    <lastmod>2013-01-01</lastmod>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
     <loc>http://www.normatividadtorreon.gob.mx/reglamentos-vigentes/reglamento-movilidad-urbana.html</loc>
+    <lastmod>2013-01-01</lastmod>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>http://www.normatividadtorreon.gob.mx/reglamentos-vigentes/reglamento-municipal-acceso-mujer-torreon-libre-violencia.html</loc>
     <lastmod>2013-01-01</lastmod>
     <changefreq>monthly</changefreq>
   </url>
@@ -371,6 +421,11 @@
     <changefreq>monthly</changefreq>
   </url>
   <url>
+    <loc>http://www.normatividadtorreon.gob.mx/reglamentos-vigentes/reglamento-proteccion-trato-digno-animales.html</loc>
+    <lastmod>2013-01-01</lastmod>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
     <loc>http://www.normatividadtorreon.gob.mx/reglamentos-vigentes/reglamento-rastro-municipal.html</loc>
     <lastmod>2013-01-01</lastmod>
     <changefreq>monthly</changefreq>
@@ -407,6 +462,11 @@
   </url>
   <url>
     <loc>http://www.normatividadtorreon.gob.mx/reglamentos-vigentes/reglamento-transporte-publico.html</loc>
+    <lastmod>2013-01-01</lastmod>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>http://www.normatividadtorreon.gob.mx/reglamentos-vigentes/reglamento-unidad-especializada-asuntos-internos.html</loc>
     <lastmod>2013-01-01</lastmod>
     <changefreq>monthly</changefreq>
   </url>
