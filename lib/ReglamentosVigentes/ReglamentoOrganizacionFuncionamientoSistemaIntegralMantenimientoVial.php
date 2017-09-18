@@ -1,6 +1,6 @@
 <?php
 /**
- * Normatividad Torreón - DecretoCreacionIMPLAN
+ * Normatividad Torreón - ReglamentoOrganizacionFuncionamientoSistemaIntegralMantenimientoVial
  *
  * Copyright (C) 2017 Guillermo Valdés Lozano <guivaloz@movimientolibre.com>
  *
@@ -23,9 +23,9 @@
 namespace ReglamentosVigentes;
 
 /**
- * Clase DecretoCreacionIMPLAN
+ * Clase ReglamentoOrganizacionFuncionamientoSistemaIntegralMantenimientoVial
  */
-class DecretoCreacionIMPLAN extends \Base\PublicacionSchemaArticle {
+class ReglamentoOrganizacionFuncionamientoSistemaIntegralMantenimientoVial extends \Base\PublicacionSchemaArticle {
 
     /**
      * Constructor
@@ -34,18 +34,18 @@ class DecretoCreacionIMPLAN extends \Base\PublicacionSchemaArticle {
         // Ejecutar constructor en el padre
         parent::__construct();
         // Título, autor y fecha
-        $this->nombre                     = 'Decreto del Instituto Municipal de Planeación y Competitividad de Torreón, Coahuila';
+        $this->nombre                     = 'Reglamento de Organización y Funcionamiento del Sistema Integral de Mantenimiento Vial del Municipio de Torreón';
     //~ $this->autor                      = '';
         $this->fecha                      = '2013-01-01T00:00';
         // El nombre del archivo a crear
-        $this->archivo                    = 'decreto-creacion-implan';
+        $this->archivo                    = 'reglamento-organizacion-funcionamiento-sistema-integral-mantenimiento-vial';
         // La descripción y claves dan información a los buscadores y redes sociales
-        $this->descripcion                = 'El presente Decreto tiene por objeto regular la constitución, organización, funcionamiento y control del Instituto Municipal de Planeación y Competitividad de Torreón, como un organismo municipal descentralizado con personalidad jurídica y patrimonio propio para el cumplimiento de las atribuciones que le otorgan el presente ordenamiento, las demás leyes y los demás reglamentos.';
-        $this->claves                     = 'Decreto, Vigente, IMPLAN, Instituto, Municipal, Planeacion, Competitividad';
+        $this->descripcion                = 'Se crea el Organismo Público Descentralizado de la administración Municipal de Torreón, Coahuila de Zaragoza, denominado “Sistema Integral de Mantenimiento Vial (SIMV) del Municipio de Torreón Coahuila de Zaragoza” con personalidad jurídica, patrimonio propio y autonomía técnica y de gestión para el ejercicio de sus atribuciones.';
+        $this->claves                     = 'Reglamento, Vigente, Sistema, Integral, Mantenimiento, Vial';
         // Ruta al archivo markdown con el contenido
-        $this->contenido_archivo_markdown = 'lib/ReglamentosVigentes/DecretoCreacionIMPLAN.md';
+        $this->contenido_archivo_markdown = 'lib/ReglamentosVigentes/ReglamentoOrganizacionFuncionamientoSistemaIntegralMantenimientoVial.md';
     } // constructor
 
-} // Clase DecretoCreacionIMPLAN
+} // Clase ReglamentoOrganizacionFuncionamientoSistemaIntegralMantenimientoVial
 
 ?>

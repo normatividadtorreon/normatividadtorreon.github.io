@@ -1,6 +1,6 @@
 <?php
 /**
- * Normatividad Torreón - DecretoCreacionIMPLAN
+ * Normatividad Torreón - ReglamentoSistemaIntegralMantenimientoVial
  *
  * Copyright (C) 2017 Guillermo Valdés Lozano <guivaloz@movimientolibre.com>
  *
@@ -23,9 +23,9 @@
 namespace ReglamentosVigentes;
 
 /**
- * Clase DecretoCreacionIMPLAN
+ * Clase ReglamentoSistemaIntegralMantenimientoVial
  */
-class DecretoCreacionIMPLAN extends \Base\PublicacionSchemaArticle {
+class ReglamentoSistemaIntegralMantenimientoVial extends \Base\PublicacionSchemaArticle {
 
     /**
      * Constructor
@@ -34,18 +34,18 @@ class DecretoCreacionIMPLAN extends \Base\PublicacionSchemaArticle {
         // Ejecutar constructor en el padre
         parent::__construct();
         // Título, autor y fecha
-        $this->nombre                     = 'Decreto del Instituto Municipal de Planeación y Competitividad de Torreón, Coahuila';
+        $this->nombre                     = 'Reglamento del Sistema Integral de Mantenimiento Vial del Municipio de Torreón';
     //~ $this->autor                      = '';
         $this->fecha                      = '2013-01-01T00:00';
         // El nombre del archivo a crear
-        $this->archivo                    = 'decreto-creacion-implan';
+        $this->archivo                    = 'reglamento-sistema-integral-mantenimiento-vial';
         // La descripción y claves dan información a los buscadores y redes sociales
-        $this->descripcion                = 'El presente Decreto tiene por objeto regular la constitución, organización, funcionamiento y control del Instituto Municipal de Planeación y Competitividad de Torreón, como un organismo municipal descentralizado con personalidad jurídica y patrimonio propio para el cumplimiento de las atribuciones que le otorgan el presente ordenamiento, las demás leyes y los demás reglamentos.';
-        $this->claves                     = 'Decreto, Vigente, IMPLAN, Instituto, Municipal, Planeacion, Competitividad';
+        $this->descripcion                = 'El presente reglamento es de orden público, interés general y de aplicación en todo el territorio del Municipio de Torreón, Coahuila, y tiene como objetivo regular la prestación del Servicio de Mantenimiento a la infraestructura vial.';
+        $this->claves                     = 'Reglamento, Vigente, Sistema, Integral, Mantenimiento, Vial';
         // Ruta al archivo markdown con el contenido
-        $this->contenido_archivo_markdown = 'lib/ReglamentosVigentes/DecretoCreacionIMPLAN.md';
+        $this->contenido_archivo_markdown = 'lib/ReglamentosVigentes/ReglamentoSistemaIntegralMantenimientoVial.md';
     } // constructor
 
-} // Clase DecretoCreacionIMPLAN
+} // Clase ReglamentoSistemaIntegralMantenimientoVial
 
 ?>

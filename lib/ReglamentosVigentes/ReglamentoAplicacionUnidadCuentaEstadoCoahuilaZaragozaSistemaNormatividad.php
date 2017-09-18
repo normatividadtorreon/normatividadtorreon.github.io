@@ -1,6 +1,6 @@
 <?php
 /**
- * Normatividad Torreón - DecretoCreacionIMPLAN
+ * Normatividad Torreón - ReglamentoAplicacionUnidadCuentaEstadoCoahuilaZaragozaSistemaNormatividad
  *
  * Copyright (C) 2017 Guillermo Valdés Lozano <guivaloz@movimientolibre.com>
  *
@@ -23,9 +23,9 @@
 namespace ReglamentosVigentes;
 
 /**
- * Clase DecretoCreacionIMPLAN
+ * Clase ReglamentoAplicacionUnidadCuentaEstadoCoahuilaZaragozaSistemaNormatividad
  */
-class DecretoCreacionIMPLAN extends \Base\PublicacionSchemaArticle {
+class ReglamentoAplicacionUnidadCuentaEstadoCoahuilaZaragozaSistemaNormatividad extends \Base\PublicacionSchemaArticle {
 
     /**
      * Constructor
@@ -34,18 +34,18 @@ class DecretoCreacionIMPLAN extends \Base\PublicacionSchemaArticle {
         // Ejecutar constructor en el padre
         parent::__construct();
         // Título, autor y fecha
-        $this->nombre                     = 'Decreto del Instituto Municipal de Planeación y Competitividad de Torreón, Coahuila';
+        $this->nombre                     = 'Reglamento para la aplicación de la Unidad de Cuenta Estado de Coahuila de Zaragoza en el Sistema de Normatividad Municipal de Torreón';
     //~ $this->autor                      = '';
         $this->fecha                      = '2013-01-01T00:00';
         // El nombre del archivo a crear
-        $this->archivo                    = 'decreto-creacion-implan';
+        $this->archivo                    = 'reglamento-aplicacion-unidad-cuenta-estado-coahuila-zaragoza-sistema-normatividad';
         // La descripción y claves dan información a los buscadores y redes sociales
-        $this->descripcion                = 'El presente Decreto tiene por objeto regular la constitución, organización, funcionamiento y control del Instituto Municipal de Planeación y Competitividad de Torreón, como un organismo municipal descentralizado con personalidad jurídica y patrimonio propio para el cumplimiento de las atribuciones que le otorgan el presente ordenamiento, las demás leyes y los demás reglamentos.';
-        $this->claves                     = 'Decreto, Vigente, IMPLAN, Instituto, Municipal, Planeacion, Competitividad';
+        $this->descripcion                = 'En cumplimiento de lo dispuesto en la Ley de la materia, se establece la Unidad de Cuenta del Estado de Coahuila de Zaragoza como una medida de valor, en sustitución del salario mínimo, para la determinación de las sanciones y multas administrativas.';
+        $this->claves                     = 'Reglamento, Vigente, Unidad de Cuenta, Sistema, Normatividad, Municipal';
         // Ruta al archivo markdown con el contenido
-        $this->contenido_archivo_markdown = 'lib/ReglamentosVigentes/DecretoCreacionIMPLAN.md';
+        $this->contenido_archivo_markdown = 'lib/ReglamentosVigentes/ReglamentoAplicacionUnidadCuentaEstadoCoahuilaZaragozaSistemaNormatividad.md';
     } // constructor
 
-} // Clase DecretoCreacionIMPLAN
+} // Clase ReglamentoAplicacionUnidadCuentaEstadoCoahuilaZaragozaSistemaNormatividad
 
 ?>

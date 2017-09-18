@@ -1,6 +1,6 @@
 <?php
 /**
- * Normatividad Torreón - DecretoCreacionIMPLAN
+ * Normatividad Torreón - ReglamentoConcesiones
  *
  * Copyright (C) 2017 Guillermo Valdés Lozano <guivaloz@movimientolibre.com>
  *
@@ -23,9 +23,9 @@
 namespace ReglamentosVigentes;
 
 /**
- * Clase DecretoCreacionIMPLAN
+ * Clase ReglamentoConcesiones
  */
-class DecretoCreacionIMPLAN extends \Base\PublicacionSchemaArticle {
+class ReglamentoConcesiones extends \Base\PublicacionSchemaArticle {
 
     /**
      * Constructor
@@ -34,18 +34,18 @@ class DecretoCreacionIMPLAN extends \Base\PublicacionSchemaArticle {
         // Ejecutar constructor en el padre
         parent::__construct();
         // Título, autor y fecha
-        $this->nombre                     = 'Decreto del Instituto Municipal de Planeación y Competitividad de Torreón, Coahuila';
+        $this->nombre                     = 'Reglamento de Concesiones del Municipio de Torreón';
     //~ $this->autor                      = '';
         $this->fecha                      = '2013-01-01T00:00';
         // El nombre del archivo a crear
-        $this->archivo                    = 'decreto-creacion-implan';
+        $this->archivo                    = 'reglamento-concesiones';
         // La descripción y claves dan información a los buscadores y redes sociales
-        $this->descripcion                = 'El presente Decreto tiene por objeto regular la constitución, organización, funcionamiento y control del Instituto Municipal de Planeación y Competitividad de Torreón, como un organismo municipal descentralizado con personalidad jurídica y patrimonio propio para el cumplimiento de las atribuciones que le otorgan el presente ordenamiento, las demás leyes y los demás reglamentos.';
-        $this->claves                     = 'Decreto, Vigente, IMPLAN, Instituto, Municipal, Planeacion, Competitividad';
+        $this->descripcion                = 'El presente reglamento tiene por objeto regular el procedimiento para el otorgamiento de las concesiones para la prestación de servicios públicos, así como para la explotación, uso y aprovechamiento de bienes de dominio público que realice el Municipio.';
+        $this->claves                     = 'Reglamento, Vigente, Conseciones';
         // Ruta al archivo markdown con el contenido
-        $this->contenido_archivo_markdown = 'lib/ReglamentosVigentes/DecretoCreacionIMPLAN.md';
+        $this->contenido_archivo_markdown = 'lib/ReglamentosVigentes/ReglamentoConcesiones.md';
     } // constructor
 
-} // Clase DecretoCreacionIMPLAN
+} // Clase ReglamentoConcesiones
 
 ?>
